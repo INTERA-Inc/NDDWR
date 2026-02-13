@@ -1,0 +1,16 @@
+./master_flow_01/*.pdf
+./master_flow_01/results
+./master_flow_01/wahp.3.obs.jcb
+./master_flow_01/wahp.4.obs.jcb
+./master_flow_01/wahp.pargp_data.csv
+./master_flow_01/wahp.par_data.csv
+./master_flow_01/wahp.obs_data.csv
+./master_flow_01/wahp.pst
+./master_flow_01/wahp.insfile_data.csv
+./master_flow_01/wahp.tplfile_data.csv
+./master_flow_01/wahp.phi.actual.csv
+./master_flow_01/wahp.phi.meas.csv
+./master_flow_01/wahp.obs+noise.jcb
+./master_flow_01/wahp.pdc.csv
+./master_flow_01/wahp.rec
+./master_flow_01/wahp.adjusted.obs_data.csv

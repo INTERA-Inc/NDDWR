@@ -1,0 +1,35 @@
+name: nddwrpy311
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+  - pandas>=2.0
+  - numpy<2
+  - matplotlib 
+  - seaborn
+  - openpyxl
+  - xlrd
+  - geopandas
+  - rasterio
+  - jupyter 
+  - notebook 
+  - scipy 
+  - shapely
+  - rtree
+  - pyproj>=2.0
+  - pyshp
+  - psutil
+  - git
+  - nbconvert
+  - pyarrow 
+  - conda-pack
+  - xarray
+  - rasterstats
+  - netcdf4
+  - pykrige
+  - pip:
+       - dataretrieval
+       - ipympl
+       - pypestutils

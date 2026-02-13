@@ -1,0 +1,23 @@
+Site_Index	Location	USGS_ID	County	Basin	Aquifer	Purpose	Casing	Diameter	Measuring_Point_Elev_NVGD29	Land_Surface_Elev_NVGD29	Measuring_Point_Elev_NAVD88	Land_Surface_Elev_NAVD88	Elev_Type	Date_Drilled	Total_Depth	Bedrock_Depth	Top_Screen	Bottom_Screen	Longitude	Latitude	Coord_Type
+129933	14606102BBB		Griggs	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1472.01	1469.33	1473.17	1470.49	Global Position Survey	2016-09-07	260	203	147	152	-98.414196	47.500348	GPS - Surveyed
+18425	14706113DAA1		Griggs	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1505.8	1503.6399999999999	1506.94	1504.78	Global Position Survey	1995-10-25	245	240	198	203	-98.372005	47.550796	Digitized - Heads Up
+18426	14706113DAA2		Griggs	Sheyenne River	Sand Sediments	Observation Well - PRESENS	PVC	2	1505.56	1503.6499999999999	1506.7	1504.79	Global Position Survey	1995-10-25	40	0	28	33	-98.372003	47.550835	Digitized - Heads Up
+127977	14706435BAA		Foster	James River	New Rockford	Observation Well - PRESENS	PVC	2	1503.82	1501.45	1505.03	1502.66	Global Position Survey	2012-08-13	200	185	143	148	-98.786835	47.514967	GPS - Surveyed
+130368	14806110CCC5		Griggs	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1618.1799999999998	1615.6499999999999	1619.36	1616.83	Global Position Survey	2017-08-02	470	456	409.5	414.5	-98.43617	47.645434	GPS - Surveyed
+130941	14806110CCC6		Griggs	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1618.24	1615.99	1619.42	1617.17	Global Position Survey	2019-10-01	280	0	259	264	-98.436168	47.64546	Digitized - Heads Up
+130942	14806110CCC7		Griggs	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1618.7	1616.12	1619.88	1617.3	Global Position Survey	2019-10-02	168	0	163	168	-98.436166	47.645492	GPS - Surveyed
+130361	14806415DAA2		Eddy	James River	Tiffany Flats	Observation Well - PRESENS	PVC	2	1504.52	1501.81	1505.78	1503.07	Global Position Survey	2017-07-27	20	0	8	13	-98.799129	47.638279	GPS - Surveyed
+132761	14906426BDCD		Eddy					0	N/A	N/A	N/A	N/A		2024-07-31	0	0	0	0	-98.81835	47.694639	Digitized - Heads Up
+129246	15005917CCB		Nelson	Sheyenne River	McVille	Observation Well - PRESENS	PVC	2	1443.26	1440.6	1444.43	1441.77	Global Position Survey	2015-05-27	260	245	97	102	-98.247073	47.80426	GPS - Surveyed
+129254	15006024DAA		Nelson	Sheyenne River	McVille	Observation Well - PRESENS	PVC	2	1520.9499999999998	1518.22	1522.11	1519.38	Global Position Survey	2015-06-04	160	0	155	160	-98.268777	47.795263	GPS - Surveyed
+30216	15006201CDC		Eddy	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1474.31	1472.52	1475.48	1473.69	Global Position Survey	2003-07-28	300	279	258	263	-98.538511	47.832966	GPS - Surveyed
+132772	15006209DDD		Eddy		Spiritwood	Observation Well - PRESENS	PVC	2	1475.27	1472.8999999999999	1476.45	1474.08	Global Position Survey	2024-07-23	160	0	149	154	-98.587603	47.818389	GPS - Handheld
+132771	15006214CBA2		Eddy		Spiritwood	Observation Well - PRESENS	PVC	2	1470.74	1468.29	1471.91	1469.46	Global Position Survey	2024-07-19	260	256	174	179	-98.562375	47.809815	GPS - Handheld
+132760	15006222DAAA		Eddy					0	N/A	N/A	N/A	N/A		2024-07-31	0	0	0	0	-98.565886	47.79565	Digitized - Heads Up
+5374	15006223BBB		Eddy	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	4	1463.74	1461.73	1464.91	1462.9	Global Position Survey	1979-04-22	0	0	154	178	-98.564756	47.803208	GPS - Surveyed
+132877	15006223BDC		Eddy		Spiritwood	Observation Well - PRESENS	PVC	2	1462.09	1459.9299999999998	1463.26	1461.1	Global Position Survey	2024-10-16	440	397	190	195	-98.557556	47.797153	GPS - Handheld
+131918	15006313BBB2		Eddy		Warwick	Observation Well - PRESENS	PVC	2	1479.03	1476.02	1480.21	1477.2	Global Position Survey	2022-07-25	120	0	33	38	-98.673024	47.818358	GPS - Handheld
+30254	15106208ABB		Ramsey	Sheyenne River	Spiritwood	Observation Well - PRESENS	PVC	2	1503.99	1501.94	1505.19	1503.14	Global Position Survey	2003-08-19	240	224	170	175	-98.616079	47.920613	GPS - Surveyed
+132779	15106222BBB3		Benson		Spiritwood	Observation Well - PRESENS	PVC	2	1478.01	1475.19	1479.21	1476.39	Global Position Survey	2024-08-01	190	187	175	180	-98.586744	47.890682	GPS - Handheld
+132768	15206233DCC1		Ramsey		Spiritwood	Observation Well - PRESENS	PVC	2	1487.6	1485.3	1488.81	1486.51	Global Position Survey	2024-07-15	330	0	324	329	-98.598846	47.934685	GPS - Handheld
+131196	15305905DCC2		Nelson	Devils Lake Basin	Surface Water	Surface Water Site - PRESENS		0	1503.82	-1.24	1505.06	0	Global Position Survey	2021-03-25	0	0	0	0	-98.259373	48.093557	Digitized - Heads Up

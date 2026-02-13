@@ -1,0 +1,25 @@
+obs groups,type,weight %,number of weighted obs,conditioning,notes
+boundary condition,head,0.0001,1513,no,
+steady-state,head,0.1,108,no,
+high frequency,head,0.4,1581,no,
+low frequency,head,0.0001,65,no,
+same node,head,0.0001,20,no,
+extended area,head,0.09,117,no,
+hielevhifreq,head,0.15,298,no,* not sure why this isn't getting picked up
+unconfined in confined,head,0.0001,0,no,* not sure why this isn't getting picked up
+flooded obs,head,0.0001,0,no,* not sure why this isn't getting picked up
+questionable ,head,0.0001,0,no,* not sure why this isn't getting picked up
+drn,flow,0.2,300,no,gages
+vert,head diff,0.04,1227,no,
+greater than mp total time,particles,0.01,932,no,total particle travel time in deeper layers
+hk,K,0.66/0.0001,906,yes,
+greater than hk,K,0.33//0.0001,343,yes,
+budget,flow budget,0,-,no,
+less than heads,head,0,-,no,** removed once we fixed Ss
+river,flow,0,-,no,"brazos, colorado"
+heads array,head,0,-,no,a LOT of 0 weighted obs
+modpath info,particles,0,-,no,
+pumping,flow,0,-,no,
+array parameter summary,array parameters,0,-,no,
+mf input,array parameters,0,-,no,
+prop layer difference,array parameters,0,-,no,

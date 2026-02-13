@@ -1,0 +1,285 @@
+Site_Index	Location	USGS_ID	County	Basin	Aquifer	Purpose	Casing	Diameter	Measuring_Point_Elev_NVGD29	Land_Surface_Elev_NVGD29	Measuring_Point_Elev_NAVD88	Land_Surface_Elev_NAVD88	Elev_Type	Date_Drilled	Total_Depth	Bedrock_Depth	Top_Screen	Bottom_Screen	Longitude	Latitude	Coord_Type
+27688	13304706BDCAA		Richland	MN-Red	Dakota Group	Domestic Well	Unknown	0	950	950	950.85	950.85	Topographic Map		352	332	0	0	-96.647625	46.363718	Digitized - Heads Up
+27185	13304706BDCAAC		Richland	MN-Red	Undefined	Domestic Well		4	951	951	951.85	951.85	Topographic Map	1980-10-04	375	338	360	366	-96.650185	46.360439	Calculated
+931	13304706CCA		Richland	Red River	Undefined	Domestic Well	Steel	2	951	951	951.85	951.85	Topographic Map		0	0	0	350	-96.651927	46.356619	Digitized - Heads Up
+932	13304707ADD	462055096375901	Richland	Red River	Dakota Group	Observation Well - Plugged	PVC	1.25	957.5899999999999	955.29	958.43	956.13	Survey 0.1 ft	1970-05-21	348	190	318	324	-96.633426	46.347918	Digitized - Heads Up
+21805	13304707ADD2		Richland	Red River	Dakota Group	Observation Well	PVC	2	957.9499999999999	956.25	958.79	957.09	Survey 0.01 ft	1997-09-24	340	190	318	323	-96.633024	46.34822	Digitized - Heads Up
+1760	13304707BCB		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	952	0.84	952.84	Topographic Map	1995-09-26	243	0	0	0	-96.653028	46.349919	Digitized - Heads Up
+1761	13304707BCC		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	952	0.84	952.84	Topographic Map	1995-09-21	243	0	0	0	-96.653025	46.348219	Digitized - Heads Up
+1759	13304707CAC		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	957.23	955.3	958.07	956.14	Survey 0.1 ft	1996-01-11	225	221	209	219	-96.647327	46.344819	Digitized - Heads Up
+1648	13304707CBB1		Richland	Red River	Wahpeton Buried Valley	Industrial Well	Stainless Steel	12	954.5899999999999	952.7199999999999	955.43	953.56	Survey 0.01 ft	1996-08-14	293	283	253	283	-96.652444	46.347582	Digitized - Heads Up
+1656	13304707CBB2		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	954	0.84	954.84	Topographic Map	1995-09-22	253	0	0	0	-96.653027	46.34652	Digitized - Heads Up
+1463	13304707CBB3		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	955.89	953.51	956.73	954.35	Global Position Survey	1996-01-12	287	275	242	272	-96.653027	46.34652	GPS - Surveyed
+1474	13304707CBB4		Richland	Red River	Wahpeton Buried Valley	Observation Well - PRESENS	PVC	2	954.86	953	955.7	953.84	Global Position Survey	1996-06-04	175	0	162	167	-96.653027	46.34652	GPS - Surveyed
+1479	13304707CBB5		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	2	954.85	952.99	955.69	953.83	Global Position Survey	1996-06-04	86	0	71	76	-96.653027	46.34652	GPS - Surveyed
+14148	13304707CBB6		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	954.9	953.28	955.74	954.12	Global Position Survey	1996-06-04	54	0	35	40	-96.653027	46.34652	GPS - Surveyed
+3629	13304707CBC		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	954	0.84	954.84	Topographic Map	1995-09-20	243	0	0	0	-96.653028	46.344818	Digitized - Heads Up
+19724	13304707CCB		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	954	0.84	954.84	Topographic Map	1995-09-27	227	0	0	0	-96.653025	46.34302	Digitized - Heads Up
+19725	13304707CDA1		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	2	958.5	956.8	959.34	957.64	Survey 0.1 ft	1994-11-30	98	0	75	93	-96.644426	46.343018	Digitized - Heads Up
+19726	13304707CDA2		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	956.4	956.4	957.24	957.24	Survey 0.1 ft	1994-11-30	33	0	28	33	-96.644426	46.343018	Digitized - Heads Up
+19727	13304707CDA3		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	956.4	956.5	957.24	957.34	Survey 0.1 ft	1996-01-09	223	217	206	216	-96.644426	46.343018	Digitized - Heads Up
+17786	13304707CDD		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	957	0.84	957.84	Topographic Map	1970-05-24	280	237	0	0	-96.644428	46.341319	Digitized - Heads Up
+18384	13304707CDD1		Richland	Red River	Wahpeton Buried Valley	Industrial Well	Steel	8	958.54	957.25	959.38	958.09	Survey 0.01 ft	1995-08-07	215	0	182	202	-96.644428	46.341319	Digitized - Heads Up
+19728	13304707CDD2		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	956	0.84	956.84	Topographic Map	1995-09-12	300	234	0	0	-96.644428	46.341319	Digitized - Heads Up
+19729	13304707CDD3		Richland	Red River	Wahpeton Buried Valley	Industrial Well	Steel	12	956.3399999999999	954.52	957.18	955.36	Survey 0.01 ft	1996-07-25	270	263	233	263	-96.643383	46.341415	Digitized - Heads Up
+19730	13304707CDD4		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	957.4699999999999	955.02	958.31	955.86	Survey 0.01 ft	1996-01-03	268	259	229	259	-96.644428	46.341319	Digitized - Heads Up
+19731	13304707DCC		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	957	0.84	957.84	Topographic Map	1995-09-13	263	0	0	0	-96.641625	46.34132	Digitized - Heads Up
+19732	13304707DCD		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	957	0.84	957.84	Topographic Map	1995-09-14	258	0	0	0	-96.638728	46.34132	Digitized - Heads Up
+19733	13304707DDC		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	958	0.84	958.84	Topographic Map	1995-09-15	253	240	0	0	-96.635826	46.34132	Digitized - Heads Up
+19734	13304707DDD		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	958	0.84	958.84	Topographic Map	1995-10-13	223	206	0	0	-96.633027	46.341318	Digitized - Heads Up
+17787	13304708CDD		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	959	0.83	959.83	Topographic Map	1970-05-24	220	186	0	0	-96.625626	46.341219	Digitized - Heads Up
+27190	13304716BDCBBA		Richland	MN-Red	Dakota Group	Domestic Well		0	957	957	957.83	957.83	Topographic Map	1925-07-25	362	245	0	0	-96.607226	46.33482	Digitized - Heads Up
+933	13304716CAD		Richland	Red River	Wahpeton Sand Plain	Observation Well - Destroyed	PVC	1.25	954.7099999999999	951.7099999999999	955.53	952.53	Survey 0.1 ft	1969-08-21	220	174	107	110	-96.602186	46.330531	Digitized - Other Base
+934	13304716CBA		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Destroyed	PVC	1.25	959.81	957.81	960.63	958.63	Survey 0.1 ft	1969-08-21	100	0	48	51	-96.607502	46.331584	Digitized - Other Base
+935	13304716CCD		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	962	0.82	962.82	Topographic Map	1969-08-25	190	176	0	0	-96.609726	46.326419	Digitized - Heads Up
+938	13304716CDA		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Destroyed	PVC	1.25	951.31	949.31	952.13	950.13	Survey 0.1 ft	1969-08-21	190	169	37	40	-96.600724	46.329227	Digitized - Other Base
+939	13304716CDB		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	960.4	959.4	961.22	960.22	Survey 0.1 ft	1969-08-22	190	182	149	155	-96.604812	46.328568	Digitized - Other Base
+19898	13304716DDAC1		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	965	0.82	965.82	Topographic Map	1996-10-22	260	214	0	0	-96.594724	46.327718	Digitized - Heads Up
+19899	13304716DDAC2		Richland	MN-Red	Undefined	Observation Well	PVC	2	964.37	962.92	965.19	963.74	Survey 0.01 ft	1996-10-22	80	0	69	74	-96.594724	46.327718	Digitized - Heads Up
+941	13304717ADD		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	958.3	957.3	959.13	958.13	Survey 0.1 ft	1969-08-20	190	182	149	155	-96.611434	46.333366	Digitized - Other Base
+29769	13304717CAAB1		Richland	Red River	Undefined	Observation Well	PVC	2	960.27	958.5	961.1	959.33	Survey 0.01 ft	2001-10-30	30	0	20	30	-96.624023	46.332339	Calculated
+29770	13304717CAAB2		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	960.08	958.7	960.9100000000001	959.5300000000001	Survey 0.01 ft	2001-10-30	50	0	40	50	-96.624023	46.332339	Calculated
+29768	13304717CABC1		Richland	Red River	Undefined	Observation Well - Plugged	PVC	2	963.84	962.3	964.6700000000001	963.13	Survey 0.01 ft	2001-11-01	25	0	15	25	-96.626544	46.331474	Calculated
+29767	13304717CACB1		Richland	Red River	Undefined	Observation Well - Plugged	PVC	2	964	962.2	964.83	963.0300000000001	Survey 0.01 ft	2001-11-01	25	0	15	25	-96.626544	46.330609	Calculated
+127048	13304717CBBCC		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	N/A	N/A	N/A	N/A	Survey 0.01 ft	2006-10-24	26	0	15	25	-96.631911	46.331257	Calculated
+942	13304717CCC1	461937096374901	Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	961.38	959.51	962.21	960.34	Survey 0.01 ft	1970-05-22	320	315	118	121	-96.632128	46.32672	Digitized - Heads Up
+943	13304717CCC2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	961.39	958.98	962.22	959.8100000000001	Survey 0.01 ft	1974-09-12	60	0	48	51	-96.632128	46.32672	Digitized - Heads Up
+29771	13304717DCBD1		Richland	Red River	Undefined	Observation Well	PVC	2	963.14	962.6	963.97	963.4300000000001	Survey 0.01 ft	2001-10-29	32	0	22	32	-96.620077	46.328024	Calculated
+944	13304717DDD	461937096364301	Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	1.25	965	964	965.82	964.82	Topographic Map	1964-09-16	105	0	60	80	-96.612926	46.326117	Digitized - Heads Up
+454	13304718ABC		Richland	Red River	Wahpeton Buried Valley	Industrial Well	Steel	12	958.2	956.7	959.0400000000001	957.5400000000001	Topographic Map	1976-05-10	245	243	145	235	-96.641627	46.337718	Digitized - Heads Up
+455	13304718ADA	462009096375901	Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	962.02	960.12	962.85	960.95	Survey 0.01 ft	1969-09-03	240	237	219	225	-96.632863	46.335696	Digitized - Other Base
+126758	13304718ADA2		Richland	Red River	Wahpeton Buried Valley	Observation Well - PRESENS	PVC	2	962.7199999999999	960.31	963.55	961.14	Global Position Survey	2010-05-19	232	0	217	222	-96.632575	46.335696	GPS - Surveyed
+17788	13304718BBB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	955	0.84	955.84	Topographic Map	1970-05-21	236	225	0	0	-96.652525	46.339219	Digitized - Heads Up
+456	13304719DAA		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Destroyed	PVC	1.25	961.6	960.2	962.4200000000001	961.0200000000001	Survey 0.1 ft	1969-08-29	240	199	46	49	-96.632562	46.318253	Digitized - Other Base
+27720	13304719DDCC		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	959	0.82	959.82	Topographic Map	1979-02-09	382	367	0	0	-96.636852	46.311826	Calculated
+17789	13304720AACCA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	969	0.82	969.82	Topographic Map	1985-09-04	280	0	0	0	-96.616424	46.322918	Digitized - Heads Up
+457	13304720AACCB1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	971.27	970.35	972.09	971.1700000000001	Survey 0.01 ft	1985-09-04	280	0	268	273	-96.616527	46.322919	Digitized - Heads Up
+458	13304720AACCB2		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	971.67	970.4	972.49	971.22	Survey 0.01 ft	1985-09-04	120	0	113	118	-96.616626	46.32292	Digitized - Heads Up
+459	13304720AACCB3		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	972.2	970.14	973.0200000000001	970.96	Survey 0.01 ft	1985-09-05	60	0	42	57	-96.616626	46.32292	Digitized - Heads Up
+460	13304720AAD1		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	1.25	970.92	969.02	971.74	969.84	Survey 0.01 ft	1985-09-05	210	0	195	200	-96.611926	46.322918	Digitized - Heads Up
+461	13304720AAD2		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	1.25	971.21	969.28	972.0300000000001	970.1	Survey 0.01 ft	1985-09-05	135	0	129	134	-96.612025	46.322918	Digitized - Heads Up
+462	13304720AAD3		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	971.32	969.44	972.1400000000001	970.2600000000001	Survey 0.01 ft	1985-09-05	60	0	54	59	-96.612025	46.322918	Digitized - Heads Up
+30236	13304720ABABC		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	975	975	975.82	975.82	Topographic Map	2003-04-14	44	0	34	44	-96.618825	46.325182	Calculated
+463	13304720ABAC1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	976.44	974.01	977.2600000000001	974.83	Survey 0.01 ft	1986-03-11	271	0	265	270	-96.618826	46.324519	Digitized - Heads Up
+464	13304720ABAC2		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	975.25	974.06	976.07	974.88	Survey 0.01 ft	1986-03-12	125	0	118	123	-96.618825	46.32442	Digitized - Heads Up
+465	13304720ABAC4		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	975.94	973.99	976.7600000000001	974.8100000000001	Survey 0.01 ft	1986-03-12	50	0	38	48	-96.618825	46.32442	Digitized - Heads Up
+466	13304720ABB		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	966.55	964.61	967.38	965.44	Survey 0.01 ft	1969-09-02	280	264	178	184	-96.621741	46.325603	Digitized - Other Base
+467	13304720ABBA1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	977.2	975.36	978.0200000000001	976.1800000000001	Survey 0.01 ft	1986-03-25	277	0	266	271	-96.620226	46.325119	Digitized - Heads Up
+468	13304720ABBA2		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	977.69	975.56	978.5100000000001	976.38	Survey 0.01 ft	1986-03-25	125	0	118	123	-96.620227	46.325217	Digitized - Heads Up
+469	13304720ABBA3		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	978.07	976.07	978.8900000000001	976.8900000000001	Survey 0.01 ft	1986-03-25	55	0	43	53	-96.620227	46.325217	Digitized - Heads Up
+471	13304720ABCA1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	975.58	974.66	976.4000000000001	975.48	Survey 0.01 ft	1986-03-18	80	0	50	60	-96.620226	46.324119	Digitized - Heads Up
+472	13304720ABCA2		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	975.67	974.45	976.49	975.2700000000001	Survey 0.01 ft	1986-03-18	124	0	118	122	-96.620225	46.324018	Digitized - Heads Up
+473	13304720ABCA3		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	975.68	974.76	976.5	975.58	Survey 0.01 ft	1986-03-24	280	0	273	278	-96.620227	46.323718	Digitized - Heads Up
+474	13304720ABCA4		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	984.62	982.62	985.44	983.44	Survey 0.01 ft	1989-02-25	0	0	64	74	-96.620225	46.324018	Digitized - Heads Up
+475	13304720ABCBA1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	984.76	982.79	985.58	983.61	Survey 0.01 ft	1989-02-24	0	0	58	63	-96.621027	46.323718	Digitized - Heads Up
+476	13304720ABCBB1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	984.49	982.45	985.3100000000001	983.2700000000001	Survey 0.01 ft	1989-02-24	0	0	60	65	-96.622026	46.32372	Digitized - Heads Up
+477	13304720ABD		Richland	Red River	Wahpeton Buried Valley	Municipal Well	Steel	12	969.18	970.66	970	971.48	Survey 0.01 ft	1973-07-18	300	0	240	300	-96.617526	46.322917	Digitized - Heads Up
+479	13304720ABDA1		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	971.43	971.7	972.25	972.5200000000001	Survey 0.01 ft	1986-09-04	272	0	267	272	-96.617524	46.323719	Digitized - Heads Up
+478	13304720ABDAC1		Richland	Red River	Wahpeton Buried Valley	Industrial Well	Steel	12	973.4	972.16	974.22	972.98	Survey 0.01 ft	1986-09-22	302	0	175	275	-96.618225	46.32362	Digitized - Heads Up
+486	13304720ABDB1		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	1.25	974.96	972.01	975.7800000000001	972.83	Survey 0.01 ft	1985-10-16	124	0	115	120	-96.618523	46.323819	Digitized - Heads Up
+487	13304720ABDB2		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	1.25	974.06	972.24	974.88	973.0600000000001	Survey 0.01 ft	1985-10-21	280	0	248	253	-96.618527	46.323718	Digitized - Heads Up
+488	13304720ABDB3		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	974.36	972.41	975.1800000000001	973.23	Survey 0.01 ft	1985-10-22	55	0	45	50	-96.618527	46.323718	Digitized - Heads Up
+489	13304720ABDB4		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	976.59	975.21	977.4100000000001	976.0300000000001	Survey 0.01 ft	1986-03-13	280	0	273	278	-96.619326	46.324119	Digitized - Heads Up
+490	13304720ABDB5		Richland	Red River	Wahpeton Sand Plain	Observation Well - Destroyed	PVC	1.25	977.81	975.02	978.63	975.84	Survey 0.01 ft	1986-03-13	120	0	108	113	-96.618827	46.323618	Digitized - Heads Up
+491	13304720ABDB6		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	977.62	975.06	978.44	975.88	Survey 0.01 ft	1986-03-14	60	0	50	55	-96.619326	46.32402	Digitized - Heads Up
+492	13304720ABDB7		Richland	Red River	Wahpeton Shallow Sand	Industrial Well	Steel	12	973.1	971.84	973.9200000000001	972.6600000000001	Survey 0.01 ft	1986-08-26	120	0	95	115	-96.618424	46.32372	Digitized - Heads Up
+493	13304720ABDB8		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	984.73	982.74	985.5500000000001	983.5600000000001	Survey 0.01 ft	1989-02-25	0	0	92	102	-96.619327	46.323718	Digitized - Heads Up
+480	13304720ABDBA1		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	971.25	972.24	972.07	973.0600000000001	Survey 0.01 ft	1986-08-26	62	0	55	60	-96.618724	46.32412	Digitized - Heads Up
+481	13304720ABDBA2		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	971.13	972.2	971.95	973.0200000000001	Survey 0.01 ft	1986-08-27	120	0	114	119	-96.618724	46.32412	Digitized - Heads Up
+482	13304720ABDBA3		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	974.24	971.7	975.0600000000001	972.5200000000001	Survey 0.01 ft	1986-08-29	121	0	115	120	-96.618627	46.323919	Digitized - Heads Up
+484	13304720ABDBD1		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	974.69	972.26	975.5100000000001	973.08	Survey 0.01 ft	1986-08-28	122	0	114	119	-96.618524	46.323418	Digitized - Heads Up
+485	13304720ABDBD2		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	974.76	972.14	975.58	972.96	Survey 0.01 ft	1986-08-29	60	0	53	58	-96.618525	46.323517	Digitized - Heads Up
+495	13304720ABDC1		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	1.25	984.96	983.28	985.7800000000001	984.1	Survey 0.01 ft	1985-10-10	286	0	278	283	-96.618827	46.322619	Digitized - Heads Up
+496	13304720ABDC2		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	1.25	985.24	983.4	986.0600000000001	984.22	Survey 0.01 ft	1985-10-10	135	0	128	133	-96.618827	46.322619	Digitized - Heads Up
+497	13304720ABDC3		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	984.67	983.41	985.49	984.23	Survey 0.01 ft	1985-10-11	75	0	67	72	-96.618827	46.322619	Digitized - Heads Up
+499	13304720ABDDA2		Richland	Red River	Undefined	Observation Well - Destroyed	Steel	1.25	971.57	970.24	972.3900000000001	971.0600000000001	Survey 0.01 ft	1985-08-22	11	0	9	12	-96.617525	46.322819	Digitized - Heads Up
+500	13304720ABDDA3		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	972.2	970.01	973.0200000000001	970.83	Survey 0.01 ft	1985-08-29	280	0	268	273	-96.617327	46.32282	Digitized - Heads Up
+501	13304720ABDDA4		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	972.32	970.25	973.1400000000001	971.07	Survey 0.01 ft	1985-08-29	190	0	178	183	-96.617324	46.322919	Digitized - Heads Up
+502	13304720ABDDA5		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	971.42	969.9	972.24	970.72	Survey 0.01 ft	1985-08-29	120	0	113	118	-96.617224	46.322819	Digitized - Heads Up
+503	13304720ABDDA6		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	971.67	969.93	972.49	970.75	Survey 0.01 ft	1985-08-30	47	0	36	41	-96.617225	46.322918	Digitized - Heads Up
+504	13304720ABDDA7		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	970.8	970.15	971.62	970.97	Survey 0.01 ft	1985-09-06	280	0	269	274	-96.617827	46.32292	Digitized - Heads Up
+505	13304720ABDDA8		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	971.36	970.09	972.1800000000001	970.9100000000001	Survey 0.01 ft	1985-09-06	120	0	112	117	-96.617827	46.32292	Digitized - Heads Up
+506	13304720ABDDA9		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	971.31	970.14	972.13	970.96	Survey 0.01 ft	1985-09-06	60	0	50	55	-96.617926	46.322917	Digitized - Heads Up
+498	13304720ABDDAB		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	971.06	971.54	971.88	972.36	Survey 0.01 ft	1986-09-09	272	0	265	270	-96.617824	46.32312	Digitized - Heads Up
+30235	13304720ABDDAC		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	973	973	973.82	973.82	Topographic Map	2003-04-15	47	0	37	47	-96.617022	46.322829	Calculated
+507	13304720ABDDB1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	973.39	971.26	974.21	972.08	Survey 0.01 ft	1985-08-27	280	0	260	265	-96.618326	46.322917	Digitized - Heads Up
+508	13304720ABDDB2		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	972.91	971.31	973.73	972.13	Survey 0.01 ft	1985-08-28	125	0	114	119	-96.618326	46.322917	Digitized - Heads Up
+509	13304720ABDDB3		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	972.61	971.33	973.4300000000001	972.1500000000001	Survey 0.01 ft	1985-08-28	50	0	36	41	-96.618326	46.322917	Digitized - Heads Up
+510	13304720ABDDD		Richland	Red River	Undefined	Observation Well - Plugged	PVC	2	971.37	970.47	972.19	971.2900000000001	Survey 0.01 ft	1985-08-22	10	0	7.2	9.6	-96.617524	46.32272	Digitized - Heads Up
+511	13304720ACC1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	969.7	968.4	970.5200000000001	969.22	Survey 0.1 ft	1969-08-28	265	0	238	244	-96.621419	46.318735	Digitized - Other Base
+512	13304720ACC2		Richland	Red River	Undefined	Observation Well - Destroyed	PVC	1.25	970.63	969.01	971.45	969.83	Survey 0.01 ft		0	0	0	25	-96.620824	46.319519	Digitized - Heads Up
+513	13304720ACC3		Richland	Red River	Undefined	Observation Well - Plugged	PVC	1.25	970.29	968.97	971.11	969.7900000000001	Survey 0.01 ft	1975-09-04	40	0	23	26	-96.620824	46.319519	Digitized - Heads Up
+514	13304720ACD1		Richland	Red River	Undefined	Observation Well - Plugged	PVC	1.25	970.3	969	971.12	969.82	Survey 0.1 ft		0	0	0	30	-96.618224	46.319518	Digitized - Heads Up
+515	13304720ACD2		Richland	Red River	Undefined	Observation Well - Plugged	PVC	1.25	970.3	969	971.12	969.82	Topographic Map	1975-09-04	40	0	24	30	-96.618224	46.319518	Digitized - Heads Up
+30234	13304720ACDDC		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	971	971	971.82	971.82	Topographic Map	2003-04-14	26	0	14.5	24.5	-96.617515	46.318895	Calculated
+516	13304720ADB		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	973.6	971.9	974.4200000000001	972.72	Survey 0.1 ft	1969-09-04	260	0	254	260	-96.616702	46.32086	Digitized - Other Base
+517	13304720ADB2		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	972.11	972.11	972.9300000000001	972.9300000000001	Survey 0.01 ft	1985-10-22	277	0	265	270	-96.616825	46.321018	Digitized - Heads Up
+518	13304720ADB3		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	1.25	974.33	972.33	975.1500000000001	973.1500000000001	Survey 0.01 ft	1985-10-22	125	0	115	120	-96.616826	46.32112	Digitized - Heads Up
+23098	13304720ADB4		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	974.26	972.38	975.08	973.2	Survey 0.01 ft	1997-10-24	283	0	270	275	-96.616826	46.32112	Digitized - Heads Up
+519	13304720ADD		Richland	Red River	Wahpeton Buried Valley	Municipal Well	Steel	12	968.18	972.17	969	972.99	Survey 0.01 ft	1973-08-10	290	0	250	290	-96.612324	46.319019	Digitized - Heads Up
+520	13304720ADD2		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	969.67	968.57	970.49	969.3900000000001	Survey 0.01 ft	1985-10-24	275	0	268	273	-96.612526	46.319018	Digitized - Heads Up
+521	13304720ADD3		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	970.32	968.9	971.1400000000001	969.72	Survey 0.01 ft	1985-10-24	129	0	122	127	-96.612625	46.319018	Digitized - Heads Up
+17523	13304720ADD4		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	2	971.12	969.51	971.94	970.33	Survey 0.01 ft	1994-08-29	280	0	268	273	-96.612625	46.319018	Digitized - Heads Up
+30237	13304720ADD5		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	972	972	972.82	972.82	Topographic Map	2003-04-15	25	0	15	25	-96.612616	46.319572	Calculated
+115891	13304720ADD6		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	2	N/A	N/A	N/A	N/A	Survey 0.01 ft	2008-08-27	130	0	124	129	-96.612616	46.319572	Calculated
+523	13304720BAA1	461930096372101	Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	967.26	965.86	968.09	966.69	Survey 0.01 ft	1975-09-04	40	0	23	26	-96.623324	46.325518	Digitized - Heads Up
+524	13304720BAA2	461930096372102	Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	967.1	965.26	967.9300000000001	966.09	Survey 0.01 ft	1975-09-04	140	0	128	134	-96.622628	46.325618	Digitized - Heads Up
+525	13304720BAA3		Richland	Red River	Wahpeton Shallow Sand	Industrial Well	Steel	4	966.04	964.95	966.87	965.7800000000001	Survey 0.01 ft	1976-04-14	45	0	33.5	36.5	-96.623227	46.325218	Digitized - Heads Up
+526	13304720BAA4		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	967.38	965.25	968.21	966.08	Global Position Survey	1985-10-11	267	0	258	263	-96.622525	46.325719	Digitized - Heads Up
+126755	13304720BAA5		Richland	Red River	Wahpeton Buried Valley	Observation Well - PRESENS	PVC	2	967.1999999999999	964.9499999999999	968.03	965.78	Global Position Survey	2010-05-17	280	255	240	245	-96.622857	46.325848	GPS - Surveyed
+126756	13304720BAA6		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	2	966.8399999999999	965.02	967.67	965.85	Global Position Survey	2010-05-18	131	0	125	130	-96.622912	46.325847	GPS - Surveyed
+126757	13304720BAA7		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	967.4	965.11	968.23	965.94	Global Position Survey	2010-05-19	53	0	39	44	-96.622968	46.325847	GPS - Surveyed
+522	13304720BAACD		Richland	Red River	Wahpeton Shallow Sand	Industrial Well - Plugged	PVC	5	976.5799999999999	974.8399999999999	977.4	975.66	Survey 0.01 ft	1989-03-28	0	0	61.7	67	-96.623426	46.324319	Digitized - Heads Up
+17790	13304720BAB		Richland	Wild Rice River	Wahpeton Shallow Sand	Industrial Well	Steel	4	963	963	963.83	963.83	Topographic Map	1976-04-15	60	0	25	28	-96.626425	46.32532	Digitized - Heads Up
+527	13304720BABAB1		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	969.25	966.07	970.08	966.9000000000001	Survey 0.01 ft	1987-07-16	120	0	112	117	-96.626027	46.325517	Digitized - Heads Up
+528	13304720BABB		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Destroyed	PVC	2	965.11	962.74	965.94	963.57	Survey 0.01 ft	1987-07-22	66	0	53	63	-96.627125	46.325519	Digitized - Heads Up
+127049	13304720BABB1		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	N/A	N/A	N/A	N/A	Survey 0.01 ft	2006-10-24	33	0	23	33	-96.626368	46.32539	Calculated
+535	13304720BAD1		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	1.25	977.11	974.87	977.9300000000001	975.69	Survey 0.01 ft	1985-10-14	271	0	255	260	-96.623927	46.324018	Digitized - Heads Up
+536	13304720BAD2		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	1.25	977.83	975.18	978.6500000000001	976	Survey 0.01 ft	1985-10-16	150	0	135	140	-96.623927	46.324018	Digitized - Heads Up
+537	13304720BAD3		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	978.47	975.53	979.2900000000001	976.35	Survey 0.01 ft	1985-10-16	70	0	51	56	-96.624025	46.32392	Digitized - Heads Up
+529	13304720BADAB1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	984.9699999999999	982.4799999999999	985.79	983.3	Survey 0.01 ft	1989-02-24	0	0	57	62	-96.623124	46.323719	Digitized - Heads Up
+530	13304720BADBD1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	984.37	982.4699999999999	985.19	983.29	Survey 0.01 ft	1989-02-24	0	0	52	57	-96.623427	46.323518	Digitized - Heads Up
+532	13304720BADCA1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	984.7199999999999	982.41	985.54	983.23	Survey 0.01 ft	1989-02-21	0	0	66	76	-96.623426	46.322919	Digitized - Heads Up
+130971	13304720BADCA3		Richland	Red River	Wahpeton Shallow Sand	Production Well	Plastic	5	985	982	985.82	982.82	Topographic Map	1989-03-08	92	0	74	85	-96.623395	46.322931	Calculated
+534	13304720BADCD1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	985.0699999999999	982.68	985.89	983.5	Survey 0.01 ft	1989-02-21	0	0	53	58	-96.623427	46.322518	Digitized - Heads Up
+538	13304720BBA		Richland	Red River	Wahpeton Buried Valley	Municipal Well	Steel	12	961.17	962.5999999999999	962	963.43	Survey 0.01 ft	1973-07-09	327	326	240	300	-96.628727	46.32522	Digitized - Heads Up
+541	13304720BBA2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	963.63	961.34	964.46	962.1700000000001	Survey 0.01 ft	1975-09-04	80	0	56	59	-96.627927	46.324819	Digitized - Heads Up
+542	13304720BBA3		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	962.64	961.34	963.47	962.1700000000001	Survey 0.01 ft	1975-09-04	30	0	23	26	-96.627924	46.324918	Digitized - Heads Up
+543	13304720BBA4		Richland	Red River	Wahpeton Shallow Sand	Industrial Well	Steel	4	964.18	963.35	965.01	964.1800000000001	Survey 0.01 ft	1976-04-14	56	0	34	37	-96.627826	46.325019	Digitized - Heads Up
+544	13304720BBA5		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	962	960.57	962.83	961.4000000000001	Survey 0.01 ft	1976-04-15	60	0	38	41	-96.627927	46.32572	Digitized - Heads Up
+545	13304720BBA6		Richland	Red River	Wahpeton Buried Valley	Observation Well	PVC	1.25	963.96	961.81	964.7900000000001	962.64	Survey 0.01 ft	1985-10-23	280	0	268	273	-96.628226	46.325019	Digitized - Heads Up
+546	13304720BBA7		Richland	Red River	Wahpeton Sand Plain	Observation Well	ABS	1.25	963.63	961.9	964.46	962.73	Survey 0.01 ft	1985-10-23	120	0	110	115	-96.628226	46.325019	Digitized - Heads Up
+547	13304720BBA8		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	964.03	961.97	964.86	962.8000000000001	Survey 0.01 ft	1985-10-23	65	0	58	63	-96.628225	46.32492	Digitized - Heads Up
+539	13304720BBABB1		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	961.38	959.42	962.21	960.25	Survey 0.01 ft	1987-07-15	120	0	113	118	-96.629825	46.325719	Digitized - Heads Up
+540	13304720BBABB2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	961.12	959.67	961.95	960.5	Survey 0.01 ft	1987-07-16	66	0	58	63	-96.629726	46.325718	Digitized - Heads Up
+548	13304720BBBAB1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	961.45	959.09	962.2800000000001	959.9200000000001	Survey 0.01 ft	1987-07-14	320	309	298	303	-96.630927	46.325718	Digitized - Heads Up
+549	13304720BBBAB2		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	960.9	958.95	961.73	959.7800000000001	Survey 0.01 ft	1987-07-14	200	0	193	198	-96.631026	46.325718	Digitized - Heads Up
+550	13304720BBBAB3		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	961.34	958.93	962.1700000000001	959.76	Survey 0.01 ft	1987-07-15	126	0	118	123	-96.631125	46.325719	Digitized - Heads Up
+551	13304720BBBAB4		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	2	961.24	958.87	962.07	959.7	Survey 0.01 ft	1987-07-15	86	0	78	83	-96.631224	46.32572	Digitized - Heads Up
+552	13304720BBBAB5		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	960.9	958.95	961.73	959.7800000000001	Survey 0.01 ft	1987-07-15	55	0	43	53	-96.631327	46.325718	Digitized - Heads Up
+127050	13304720BBBAB6		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	962.88	960.88	963.71	961.71	Survey 0.01 ft	2006-10-24	26	0	10	20	-96.630619	46.32565	Calculated
+16217	13304720BBBC1		Richland	Red River	Undefined	Observation Well	PVC	2	960.72	958.6	961.5500000000001	959.4300000000001	Survey 0.01 ft	1993-03-19	42	0	10	25	-96.632826	46.323419	Digitized - Heads Up
+553	13304720BBD1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	Steel	4	964.97	964.15	965.8000000000001	964.98	Survey 0.01 ft	1976-04-09	60	0	42	45	-96.628027	46.32342	Digitized - Heads Up
+554	13304720BBD2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Destroyed	PVC	1.25	968.6	966.45	969.4300000000001	967.2800000000001	Survey 0.01 ft		0	0	0	0	-96.628224	46.323218	Digitized - Heads Up
+555	13304720BCA		Richland	Red River	Wahpeton Shallow Sand	Industrial Well - Plugged	Steel	4	965.54	964.59	966.36	965.4100000000001	Survey 0.01 ft	1976-04-13	60	0	42	45	-96.628025	46.322118	Digitized - Heads Up
+16218	13304720BCBC1		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	961.8	959.67	962.63	960.5	Survey 0.01 ft	1993-03-17	44	0	28	43	-96.632826	46.320918	Digitized - Heads Up
+16219	13304720BCCD1		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	964.82	962.8	965.6400000000001	963.62	Survey 0.01 ft	1993-03-20	47	0	30	45	-96.630826	46.318719	Digitized - Heads Up
+556	13304720BCD1		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Destroyed	PVC	1.25	964.84	964	965.6600000000001	964.82	Survey 0.01 ft	1975-09-04	60	0	38	44	-96.628224	46.320319	Digitized - Heads Up
+557	13304720BCD3		Richland	Red River	Wahpeton Sand Plain	Observation Well	PVC	1.25	966.24	964.07	967.0600000000001	964.8900000000001	Survey 0.01 ft	1987-07-16	140	0	130	135	-96.628024	46.32012	Digitized - Heads Up
+558	13304720BCD4		Richland	Red River	Wahpeton Shallow Sand	Observation Well	PVC	2	966.26	964.09	967.08	964.9100000000001	Survey 0.01 ft	1987-07-17	48	0	36	46	-96.628025	46.320218	Digitized - Heads Up
+561	13304720BDD		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged		0	967.84	966.24	968.6600000000001	967.0600000000001	Survey 0.01 ft		0	0	0	30	-96.624127	46.319819	Digitized - Heads Up
+30283	13304720CDAAC		Richland	Red River	Wahpeton Buried Valley	Domestic Well	Steel	4	968	968	968.82	968.82	Topographic Map		0	0	0	245	-96.622767	46.314422	Calculated
+563	13304720DDD1	461845096364301	Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	968.19	966.89	969	967.6999999999999	Survey 0.01 ft	1969-08-26	290	263	248	254	-96.611999	46.311588	Digitized - Other Base
+564	13304720DDD2	461845096364302	Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	969.19	967.5	970	968.31	Survey 0.01 ft	1974-09-12	80	0	48	51	-96.613024	46.312218	Digitized - Heads Up
+24287	13304720DDD3		Richland	Red River	Wahpeton Buried Valley	Observation Well		2	968.5300000000001	966.7700000000001	969.34	967.58	Survey 0.01 ft	1998-09-22	260	0	244	249	-96.612727	46.311719	Digitized - Heads Up
+27692	13304721AAA		Richland	MN-Red	Undefined	Domestic Well	PVC	4	962	962	962.82	962.82	Topographic Map	1993-04-15	201	0	196	200	-96.593426	46.325419	Digitized - Heads Up
+27191	13304721AAABDA		Richland	MN-Red	Wahpeton Buried Valley	Domestic Well		4	963	963	963.82	963.82	Topographic Map	1977-03-08	195	0	186	195	-96.597414	46.325189	Calculated
+945	13304721BAD1		Richland	Red River	Wahpeton Sand Plain	Domestic Well	Steel	2	958	958	958.82	958.82	Topographic Map		0	0	0	160	-96.605424	46.323018	Digitized - Heads Up
+946	13304721BCB		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	969.6	967.1	970.4200000000001	967.9200000000001	Survey 0.1 ft	1969-08-26	220	207	189	195	-96.610927	46.321732	Digitized - Other Base
+16789	13304721BDA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	960	0.82	960.82	Topographic Map	1969-08-25	210	205	0	0	-96.605426	46.32122	Digitized - Heads Up
+947	13304721CBA		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	965.4	964.4	966.22	965.22	Survey 0.1 ft	1969-09-04	260	0	258	261	-96.607638	46.31695	Digitized - Other Base
+948	13304721CBB1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	970.01	968.31	970.83	969.13	Survey 0.1 ft	1969-09-03	310	0	258	261	-96.61079	46.318192	Digitized - Heads Up
+949	13304721CBB2		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	967.9	966.8	968.72	967.62	Survey 0.1 ft	1969-09-04	260	0	248	251	-96.609331	46.317714	Digitized - Other Base
+950	13304721CBB3		Richland	Red River	Wahpeton Buried Valley	Production Well	Steel	10	969	967	969.82	967.82	Topographic Map	1969-09-17	0	0	230	280	-96.610795	46.318124	Digitized - Heads Up
+27746	13304722CCBC		MN-Wilkin	MN-Red	Wahpeton Buried Valley	Domestic Well	PVC	0	962	962	962.81	962.81	Topographic Map	1998-07-09	195	0	186	190	-96.591625	46.314919	Digitized - Heads Up
+27192	13304722CCCBDB		MN-Wilkin	MN-Red	Wahpeton Buried Valley	Domestic Well		4	962	962	962.81	962.81	Topographic Map	1977-08-01	195	0	180	186	-96.591625	46.312818	Digitized - Heads Up
+27747	13304722CCCC		MN-Wilkin	MN-Red	Wahpeton Buried Valley	Domestic Well	PVC	4	962	962	962.81	962.81	Topographic Map	1976-12-15	192	0	182	188	-96.591624	46.311619	Digitized - Heads Up
+18382	13304727CCCBBD		MN-Wilkin	MN-Red	Wahpeton Buried Valley	Municipal Well	Steel	12	967.09	965.01	967.89	965.81	Survey 0.01 ft	1977-01-06	300	0	245	300	-96.591524	46.298519	Digitized - Heads Up
+951	13304728ABB		Richland	Red River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	954.82	952.82	955.63	953.63	Survey 0.1 ft	1969-08-28	220	199	178	181	-96.598947	46.311252	Digitized - Other Base
+27749	13304728ABCC		Richland	MN-Red	Wahpeton Buried Valley	Domestic Well	PVC	5	962	962	962.81	962.81	Topographic Map	1994-09-20	285	0	275	285	-96.598926	46.30792	Digitized - Heads Up
+21858	13304728ACABBD		Richland	MN-Red	Wahpeton Buried Valley	Observation Well	PVC	2	960.5600000000001	958.4100000000001	961.37	959.22	Survey 0.01 ft	1990-11-27	261	0	250	260	-96.602227	46.307418	Digitized - Heads Up
+16754	13304728BBB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	N/A	N/A	N/A	N/A		1964-09-16	73.5	0	0	0	-96.611727	46.310518	Digitized - Heads Up
+27196	13304728DADDAD		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	966	0.8	966.8	Topographic Map	1976-10-12	316	0	0	0	-96.596686	46.30105	Calculated
+16755	13304728DCB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	N/A	N/A	N/A	N/A		1970-05-20	400	249	0	0	-96.601527	46.299718	Digitized - Heads Up
+952	13304728DCD1		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	1.25	958.99	956.79	959.79	957.5899999999999	Survey 0.01 ft	1987-07-22	260	256	238	243	-96.599024	46.297718	Digitized - Heads Up
+16768	13304728DCD2		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	950	0.8	950.8	Topographic Map	1987-07-22	96	0	0	0	-96.599025	46.29782	Digitized - Heads Up
+953	13304728DCD3		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	960.22	957.7	961.02	958.5	Global Position Survey	1987-07-22	70	0	60	65	-96.599026	46.297918	Digitized - Heads Up
+18383	13304728DDAADB		Richland	MN-Red	Wahpeton Buried Valley	Municipal Well	Steel	12	966.07	963.88	966.87	964.68	Survey 0.01 ft	1976-10-05	340	300	245	300	-96.592926	46.300119	Digitized - Heads Up
+16766	13304728DDC1		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	962	0.8	962.8	Topographic Map		216	0	0	0	-96.597125	46.297518	Digitized - Heads Up
+27197	13304728DDCBAD		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	962	0.8	962.8	Topographic Map	1976-09-20	300	0	0	0	-96.599727	46.298308	Calculated
+27198	13304728DDCCBB		Richland	MN-Red	Wahpeton Buried Valley	Domestic Well	Steel	4	961	961	961.8	961.8	Topographic Map	1966-02-07	216	0	207	0	-96.597124	46.297419	Digitized - Heads Up
+27199	13304728DDDADB		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	964	0.8	964.8	Topographic Map	1976-09-14	440	0	0	0	-96.596934	46.298088	Calculated
+565	13304729BAB		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	963	0.82	963.82	Topographic Map	1969-08-27	240	226	0	0	-96.626124	46.310418	Digitized - Heads Up
+566	13304729BAB2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	962.9	961.8	963.72	962.62	Survey 0.1 ft	1974-09-12	80	0	65	68	-96.626124	46.310418	Digitized - Heads Up
+408	13304729DAA		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	965	0.81	965.81	Topographic Map	1969-08-28	250	241	0	0	-96.612324	46.303219	Digitized - Heads Up
+27200	13304733ABAAAB		Richland	MN-Red	Wahpeton Buried Valley	Domestic Well		4	962	962	962.8	962.8	Topographic Map	1981-04-30	240	0	225	235	-96.599334	46.296658	Calculated
+27201	13304733ADADAD		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	962	0.8	962.8	Topographic Map	1976-09-16	360	0	0	0	-96.594353	46.29194	Calculated
+27202	13304733ADBCAA		Richland	MN-Red	Dakota Group	Domestic Well		4	960	960	960.8	960.8	Topographic Map	1984-06-10	253	240	247	253	-96.597873	46.292168	Calculated
+24333	13304733BAB		Richland	Red River	No Obs Well Installed	Test Hole	None	0	0	955	0.8	955.8	Topographic Map	1987-07-21	220	150	0	0	-96.607126	46.295918	Digitized - Heads Up
+126759	13304733CBDB		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	2	967.3100000000001	965.3100000000001	968.11	966.11	Global Position Survey	2010-05-26	240	214	60	65	-96.608767	46.287661	GPS - Surveyed
+27203	13304733DACBCB		Richland	MN-Red	Dakota Group	Domestic Well		4	960	960	960.8	960.8	Topographic Map	1984-10-07	263	240	259	263	-96.597526	46.287019	Digitized - Heads Up
+127517	13304733DBA		Richland	Red River	No Obs Well Installed	Test Hole		0	0	960	0.8	960.8	Topographic Map	2011-09-13	200	158	0	0	-96.60203	46.28828	Calculated
+27204	13304734CBABBC		MN-Wilkin	MN-Red	Undefined	Industrial Well		4	964	964	964.8	964.8	Topographic Map	1981-09-04	230	0	218	228	-96.588723	46.289318	Digitized - Heads Up
+16598	13304801BAA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	951	0.86	951.86	Topographic Map	1970-05-24	100	0	0	0	-96.664928	46.368318	Digitized - Heads Up
+956	13304801DDD1		Richland	Red River	Dakota Group	Domestic Well	Steel	2	946	946	946.85	946.85	Topographic Map		0	0	0	260	-96.654828	46.355018	Digitized - Heads Up
+567	13304802ADA	462153096402901	Richland	Red River	Wahpeton Sand Plain	Observation Well - Destroyed	PVC	1.25	948.28	945.98	949.13	946.83	Survey 0.1 ft	1970-05-21	280	221	88	91	-96.675227	46.364718	Digitized - Heads Up
+16628	13304802BBC		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	945	0.86	945.86	Topographic Map	1970-05-26	400	365	0	0	-96.694127	46.366318	Digitized - Heads Up
+130936	13304802CBB		Richland	Red River	Wahpeton Buried Valley	Observation Well - PRESENS	PVC	2	948.05	945.46	948.91	946.32	Global Position Survey	2019-09-16	452	448	262	267	-96.694385	46.362239	GPS - Surveyed
+132039	13304802CBB2		Richland		Undefined	Observation Well - PRESENS	PVC	2	948.48	945.46	949.34	946.32	Global Position Survey	2022-10-12	400	0	350	355	-96.694419	46.362251	Digitized - Heads Up
+131059	13304802CCC		Richland	Wild Rice River	Undefined	Test Hole		0	0	950	0.85	950.85	Topographic Map	2020-06-26	421	417	0	0	-96.693557	46.355706	Calculated
+131060	13304802CDD		Richland	Wild Rice River	Wahpeton Buried Valley	Test Hole		0	0	950	0.85	950.85	Topographic Map	2020-07-02	280	0	0	0	-96.685495	46.355715	Calculated
+131063	13304802DAA		Richland	Wild Rice River	Wahpeton Buried Valley	Test Hole		0	0	950	0.85	950.85	Topographic Map	2020-07-06	280	0	0	0	-96.675053	46.361189	Calculated
+131065	13304802DCA		Richland	Wild Rice River	Wahpeton Buried Valley	Test Hole		0	0	950	0.85	950.85	Topographic Map	2020-07-17	280	0	0	0	-96.680298	46.357553	Calculated
+131061	13304802DCD		Richland	Wild Rice River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	2	950.4599999999999	948.36	951.31	949.21	Global Position Survey	2020-06-30	265	0	254	264	-96.680298	46.355725	GPS - Surveyed
+131064	13304802DDA		Richland	Wild Rice River	Wahpeton Buried Valley	Test Hole		0	0	950	0.85	950.85	Topographic Map	2020-07-13	280	0	0	0	-96.675188	46.357564	Calculated
+131210	13304802DDC		Richland	Red River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	2	950.84	948.54	951.69	949.39	Global Position Survey	2021-03-26	252	0	240	250	-96.677743	46.35573	GPS - Surveyed
+130928	13304802DDD		Richland	Red River	Wahpeton Buried Valley	Observation Well - PRESENS	PVC	2	952.48	949.9399999999999	953.33	950.79	Global Position Survey	2019-09-10	320	0	230	235	-96.675234	46.355736	GPS - Surveyed
+131062	13304802DDD2		Richland	Wild Rice River	Undefined	Observation Well - Plugged	PVC	2	952.91	950.36	953.76	951.21	Global Position Survey	2020-06-17	480	475	363	373	-96.675234	46.355736	GPS - Surveyed
+131208	13304802DDD3		Richland	Red River	Wahpeton Buried Valley	Test Well	Plastic	12	952.3299999999999	950.4599999999999	953.18	951.31	Global Position Survey	2021-03-30	288	0	223	283	-96.675234	46.355736	GPS - Surveyed
+131254	13304802DDD4		Richland	Red River	Wahpeton Buried Valley	Domestic Well - Plugged	PVC	5	951.01	950.27	951.86	951.12	Global Position Survey		0	0	0	0	-96.675234	46.355736	GPS - Surveyed
+568	13304803ABB1	462207096402901	Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well - Destroyed	PVC	1.25	947	945	947.86	945.86	Topographic Map	1970-05-26	400	372	98	118	-96.703926	46.36842	Digitized - Heads Up
+569	13304803ABB2	462207096421201	Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well - Plugged	ABS	1.25	947.12	945.05	947.98	945.91	Survey 0.01 ft	1974-09-13	140	0	116	119	-96.703926	46.36842	Digitized - Heads Up
+27723	13304809AADC		Richland	Wild Rice River	Wahpeton Sand Plain	Domestic Well	Steel	4	940	940	940.86	940.86	Topographic Map	1972-08-25	358	347	120	128	-96.717883	46.351663	Calculated
+130679	13304810DDD		Richland	Red River	Unnamed	Observation Well - PRESENS	PVC	2	945.41	942.27	946.26	943.12	Global Position Survey	2018-06-18	479	478	437	442	-96.696357	46.341405	GPS - Surveyed
+130680	13304810DDD2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - PRESENS	PVC	2	945.3199999999999	942.39	946.17	943.24	Global Position Survey	2018-06-20	80	0	75	80	-96.696357	46.341405	GPS - Surveyed
+16650	13304811DDD		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	950	0.84	950.84	Topographic Map	1970-05-21	240	184	0	0	-96.6754	46.341371	Calculated
+570	13304812BAA	462114096395101	Richland	Red River	Wahpeton Sand Plain	Observation Well	ABS	1.25	951.25	949.25	952.1	950.1	Global Position Survey	1970-05-24	235	231	115	135	-96.662766	46.354897	GPS - Surveyed
+27724	13304812CABC		Richland	Red River	Dakota Group	Domestic Well	PVC	4	953	953	953.84	953.84	Topographic Map	1988-06-30	254	230	244	254	-96.668177	46.346306	Calculated
+16655	13304813ADD		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	955	0.84	955.84	Topographic Map	1970-05-22	240	203	0	0	-96.654327	46.334018	Digitized - Heads Up
+130681	13304822AAA		Richland	Red River	Unnamed	Observation Well - PRESENS	PVC	2	950.91	948.1899999999999	951.75	949.03	Global Position Survey	2018-06-20	531	530	491	496	-96.69654	46.325098	GPS - Surveyed
+27725	13304823ABBB		Richland	Red River	Dakota Group	Domestic Well	PVC	4	945	945	945.84	945.84	Topographic Map	1983-01-10	242	233	233	242	-96.684095	46.325536	Calculated
+573	13304824AAD1		Richland	Red River	Wahpeton Sand Plain	Observation Well - Plugged	PVC	1.25	959.5999999999999	957.6999999999999	960.43	958.53	Survey 0.1 ft	1974-09-12	140	0	132	135	-96.654826	46.323218	Digitized - Heads Up
+574	13304824AAD2		Richland	Red River	Wahpeton Shallow Sand	Observation Well - Plugged	PVC	1.25	958.76	957	959.59	957.83	Survey 0.1 ft	1974-09-12	60	0	48	51	-96.654826	46.323218	Digitized - Heads Up
+16656	13304824ABB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	957	0.83	957.83	Topographic Map	1970-05-23	240	206	0	0	-96.662728	46.324718	Digitized - Heads Up
+16587	13304824ADA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	960	0.83	960.83	Topographic Map	1970-05-23	240	213	0	0	-96.654425	46.321318	Digitized - Heads Up
+19900	13404731CAA1		MN-Wilkin	MN-Red	No Obs Well Installed	Test Hole	None	0	0	952	0.86	952.86	Topographic Map	1996-10-22	225	158	0	0	-96.645826	46.376618	Digitized - Heads Up
+27753	13404731CDDC		MN-Wilkin	MN-Red	Dakota Group	Domestic Well	PVC	4	953	953	953.85	953.85	Topographic Map	1992-03-25	350	256	332	340	-96.646326	46.370018	Digitized - Heads Up
+958	13404804CBD		Richland	Red River	Dakota Group	Municipal Well	Steel	0	940	940	941.01	941.01	Topographic Map	1966-01-01	0	0	0	378	-96.732839	46.446521	Digitized - Heads Up
+27727	13404804CBD2		Richland	Red River	Dakota Group	Municipal Well	Unknown	8	940	940	941.01	941.01	Topographic Map	1988-12-02	390	328	350	370	-96.732287	46.446456	Calculated
+24267	13404807CBB2		Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well	PVC	2	938.3	935.63	939.3	936.63	Survey 0.01 ft	1998-09-03	117	0	91	96	-96.777238	46.43382	Digitized - Heads Up
+24272	13404807CBB3		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	936	1	937	Topographic Map	1998-09-03	40	0	0	0	-96.777238	46.43382	Digitized - Heads Up
+24273	13404808CBB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	937	1	938	Topographic Map	1998-08-25	229	0	0	0	-96.756238	46.433821	Digitized - Heads Up
+24265	13404808CCCA		Richland	Wild Rice River	Wahpeton Buried Valley	Observation Well - Plugged	PVC	2	939.38	936.99	940.37	937.98	Survey 0.01 ft	1998-08-27	196	0	150	155	-96.755538	46.42912	Digitized - Heads Up
+17720	13404809AAA			Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	930	0.98	930.98	Topographic Map	1964-09-15	326	317	0	0	-96.71574	46.441019	Digitized - Heads Up
+959	13404809DAB		Richland	Red River	Dakota Group	Domestic Well	Steel	2	936	936	936.97	936.97	Topographic Map		0	0	0	390	-96.719039	46.433519	Digitized - Heads Up
+582	13404817AAD		Richland	Wild Rice River	Wahpeton Sand Plain	Domestic Well	Steel	2	936	936	936.97	936.97	Topographic Map	1955-01-01	80	0	0	80	-96.73724	46.424419	Digitized - Heads Up
+1155	13404817AAD2		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	935	0.97	935.97	Topographic Map	1979-11-20	302	0	0	0	-96.737137	46.42452	Digitized - Heads Up
+24327	13404818ACB		Richland	Wild Rice River	Wahpeton Sand Plain	Domestic Well	PVC	4	936	936	936.98	936.98	Topographic Map	1998-09-24	120	0	110	120	-96.766342	46.422819	Digitized - Heads Up
+583	13404820ADD2	462425096441202	Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well - Recorder	Steel	5	943.5	941.58	944.43	942.51	Global Position Survey	1979-11-20	262	0	130	135	-96.73764	46.406618	GPS - Surveyed
+584	13404821BBB		Richland	Wild Rice River	Wahpeton Buried Valley	Observation Well - Destroyed	PVC	1.25	940.9899999999999	938.9899999999999	941.93	939.93	Survey 0.1 ft	1970-06-02	395	382	238	244	-96.73494	46.412019	Digitized - Heads Up
+1636	13404821BBB2		Richland	Wild Rice River	Wahpeton Buried Valley	Observation Well	PVC	2	942.93	941.0799999999999	943.87	942.02	Survey 0.01 ft	1996-06-05	260	0	250	255	-96.734604	46.412099	Calculated
+1637	13404821BBB3		Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well	PVC	2	943.38	941.2099999999999	944.32	942.15	Survey 0.01 ft	1996-06-06	140	0	130	140	-96.734604	46.412099	Calculated
+15380	13404821BBB4		Richland	Wild Rice River	Wahpeton Shallow Sand	Observation Well	PVC	2	942.5899999999999	941.02	943.53	941.96	Survey 0.01 ft	1996-06-06	59	0	44	54	-96.734604	46.412099	Calculated
+27242	13404823ACBCAD		Richland	MN-Red	Undefined	Domestic Well		0	943	943	943.89	943.89	Topographic Map		391	284	0	0	-96.683609	46.40788	Calculated
+27728	13404823DBDD		Richland	Red River	Dakota Group	Domestic Well	PVC	5	943	943	943.88	943.88	Topographic Map	1992-08-20	365	245	355	365	-96.682424	46.401648	Calculated
+961	13404825CCB		Richland	Red River	Dakota Group	Domestic Well	Steel	2	946	946	946.87	946.87	Topographic Map	1952-01-01	0	0	0	365	-96.673127	46.385419	Digitized - Heads Up
+962	13404826CDA		Richland	Red River	Dakota Group	Domestic Well	Steel	2	946	946	946.87	946.87	Topographic Map	1955-01-01	0	0	0	352	-96.685626	46.38662	Digitized - Heads Up
+27729	13404826CDAA		Richland	Red River	Dakota Group	Domestic Well	Steel	4	946	946	946.87	946.87	Topographic Map	1976-10-15	345	335	335	345	-96.684399	46.387237	Calculated
+17727	13404832BAA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	940	0.91	940.91	Topographic Map	1970-05-27	350	326	0	0	-96.748439	46.38312	Digitized - Heads Up
+586	13404832DAA	462234096441201	Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well - Plugged	ABS	1.25	944.83	943.08	945.72	943.97	Survey 0.01 ft	1970-05-26	120	0	58	78	-96.737837	46.37582	Digitized - Heads Up
+132040	13404832DAA2		Richland		Wahpeton Sand Plain	Observation Well	PVC	2	945.5500000000001	942.94	946.44	943.83	Global Position Survey	2022-10-12	100	0	73	78	-96.737013	46.376721	Digitized - Heads Up
+27730	13404832DDA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	940	0.89	940.89	Topographic Map	1977-07-09	405	372	0	0	-96.73751	46.372235	Calculated
+16595	13404833AAA		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	N/A	N/A	N/A	N/A		1970-05-28	280	0	0	0	-96.716729	46.382818	Digitized - Heads Up
+16597	13404833BAB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	N/A	N/A	N/A	N/A		1970-05-27	200	0	0	0	-96.73024	46.382818	Digitized - Heads Up
+19903	13404836ACB2		Richland	MN-Red	No Obs Well Installed	Test Hole	None	0	0	947	0.86	947.86	Topographic Map	1996-10-29	415	189	0	0	-96.664125	46.37902	Digitized - Heads Up
+19904	13404836ACB3		Richland	MN-Red	Undefined	Observation Well	PVC	2	949.24	947.54	950.1	948.4	Survey 0.01 ft	1996-11-06	118	0	103	108	-96.664125	46.37902	Digitized - Heads Up
+24270	13404901ADDB1		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	937	1.02	938.02	Topographic Map	1998-08-31	300	0	0	0	-96.77954	46.45052	Digitized - Heads Up
+24266	13404901ADDB2		Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well	PVC	2	937.94	936.4200000000001	938.96	937.44	Survey 0.01 ft	1998-09-01	160	0	132	137	-96.77954	46.45052	Digitized - Heads Up
+24271	13404901DDD		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	939	1.01	940.01	Topographic Map	1998-09-01	408	405	0	0	-96.77884	46.443121	Digitized - Heads Up
+24288	13404901DDD2		Richland	Wild Rice River	Undefined	Observation Well	PVC	2	939.9	938.47	940.91	939.48	Survey 0.01 ft	1998-09-23	140	0	111	116	-96.77884	46.443121	Digitized - Heads Up
+24268	13504831CBCA1		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	939	1.03	940.03	Topographic Map	1998-08-24	423	401	0	0	-96.77664	46.461521	Digitized - Heads Up
+24264	13504831CBCA2		Richland	Wild Rice River	Undefined	Observation Well	PVC	2	939.22	937.9300000000001	940.25	938.96	Global Position Survey	1998-08-25	130	0	110	115	-96.775651	46.460138	GPS - Surveyed
+596	13504831DCD		Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well - Plugged	ABS	1.25	939.16	936.5	940.1899999999999	937.53	Survey 0.1 ft	1970-06-03	180	0	138	141	-96.763642	46.45772	Digitized - Heads Up
+21797	13504831DCD2		Richland	Wild Rice River	Wahpeton Sand Plain	Observation Well	PVC	2	937.99	936.74	939.02	937.77	Global Position Survey	1997-09-18	150	0	133	138	-96.762671	46.456472	GPS - Surveyed
+14018	13504832BBB		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	935	1.04	936.04	Topographic Map	1970-06-03	360	307	0	0	-96.75614	46.470521	Digitized - Heads Up
+14019	13504832DDD		Richland	Wild Rice River	No Obs Well Installed	Test Hole	None	0	0	930	1.03	931.03	Topographic Map	1970-06-03	160	0	0	0	-96.737638	46.456821	Digitized - Heads Up

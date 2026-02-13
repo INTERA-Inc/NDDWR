@@ -1,0 +1,1045 @@
+use_year	pod_index	permit_number	pod	aquifer	permit_holder_name	use_type	reported_acft	reported_acres	reported_rate	kwhrs	kwh_demand	begin_meter	end_meter	meter_units	crop_type1	crop_type2	reported_inches	total_use	comments
+1976	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	112.7	0.0	0.0	0	0	0.0	0.0					0.0	
+1976	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	112.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1976	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	112.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1977	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	227.3	0.0	0.0	0	0	0.0	0.0					0.0	
+1977	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	835.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1977	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	57.7	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	688.1	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1979	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	407.9	0.0	0.0	0	0	0.0	0.0					0.0	
+1979	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	815.2	0.0	0.0	0	0	0.0	0.0					0.0	
+1979	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1980	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	399.1	0.0	0.0	0	0	0.0	0.0					0.0	
+1980	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	797.9	0.0	0.0	0	0	0.0	0.0					0.0	
+1980	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1981	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	707.5	0.0	0.0	0	0	0.0	0.0					0.0	
+1981	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1981	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	529.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1982	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	338.6	0.0	700.0	0	0	0.0	0.0					0.0	
+1982	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	600.7	0.0	1400.0	0	0	0.0	0.0					0.0	
+1982	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	338.7	0.0	700.0	0	0	0.0	0.0					0.0	
+1983	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	613.3	0.0	1400.0	0	0	0.0	0.0					0.0	
+1983	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	90.3	0.0	0.0	0	0	0.0	0.0					0.0	
+1983	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	522.4	0.0	1400.0	0	0	0.0	0.0					0.0	
+1984	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	604.3	0.0	1400.0	0	0	0.0	0.0					0.0	
+1984	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	494.4	0.0	1400.0	0	0	0.0	0.0					0.0	
+1984	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	112.1	0.0	720.0	0	0	0.0	0.0					0.0	
+1985	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	103.0	0.0	720.0	0	0	0.0	0.0					0.0	
+1985	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	551.9	0.0	1400.0	0	0	0.0	0.0					0.0	
+1985	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	551.9	0.0	1400.0	0	0	0.0	0.0					0.0	
+1986	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	270.5	0.0	720.0	0	0	0.0	0.0					0.0	
+1986	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	752.2	0.0	1400.0	0	0	0.0	0.0					0.0	
+1986	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	405.0	0.0	1400.0	0	0	0.0	0.0					0.0	
+1987	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1987	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	562.1	0.0	0.0	0	0	0.0	0.0					0.0	
+1987	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	562.2	0.0	0.0	0	0	0.0	0.0					0.0	
+1988	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1988	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	585.2	0.0	1400.0	0	0	0.0	0.0					0.0	
+1988	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	562.3	0.0	1400.0	0	0	0.0	0.0					0.0	
+1989	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	611.2	0.0	1400.0	0	0	0.0	0.0					0.0	
+1989	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1989	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	542.1	0.0	0.0	0	0	0.0	0.0					0.0	
+1990	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	577.5	0.0	1400.0	0	0	0.0	0.0					0.0	
+1990	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1990	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	577.5	0.0	1400.0	0	0	0.0	0.0					0.0	
+1991	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	327.2	0.0	1400.0	0	0	0.0	0.0					0.0	
+1991	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	763.4	0.0	1400.0	0	0	0.0	0.0					0.0	
+1991	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1992	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1992	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	739.9	0.0	1400.0	0	0	0.0	0.0					0.0	
+1992	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	338.6	0.0	1400.0	0	0	0.0	0.0					0.0	
+1993	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	594.6	0.0	1400.0	0	0	0.0	0.0					0.0	
+1993	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	537.7	0.0	1400.0	0	0	0.0	0.0					0.0	
+1993	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1994	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	512.5	0.0	1400.0	0	0	0.0	0.0					0.0	
+1994	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1994	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	490.6	0.0	1400.0	0	0	0.0	0.0					0.0	
+1995	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	695.1	0.0	1300.0	0	0	0.0	0.0					0.0	
+1995	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	402.1	0.0	1200.0	0	0	0.0	0.0					0.0	
+1996	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	636.5	0.0	1300.0	0	0	0.0	0.0					0.0	
+1996	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	476.3	0.0	1300.0	0	0	0.0	0.0					0.0	
+1997	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	510.5	0.0	1300.0	0	0	0.0	0.0					0.0	
+1997	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	510.5	0.0	1300.0	0	0	0.0	0.0					0.0	
+1998	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	510.5	0.0	1300.0	0	0	0.0	0.0					0.0	
+1998	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	510.5	0.0	1300.0	0	0	0.0	0.0					0.0	
+1999	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	405.8	0.0	1300.0	0	0	0.0	0.0					0.0	
+1999	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	405.8	0.0	1300.0	0	0	0.0	0.0					0.0	
+2000	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	451.1	0.0	1300.0	0	0	0.0	0.0					0.0	
+2000	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	437.1	0.0	1300.0	0	0	0.0	0.0					0.0	
+2001	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	542.0	0.0	1300.0	0	0	0.0	0.0					0.0	
+2001	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	511.8	0.0	1350.0	0	0	0.0	0.0					0.0	
+2002	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	414.0	0.0	1400.0	0	0	0.0	0.0					0.0	
+2002	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	414.0	0.0	1400.0	0	0	0.0	0.0					0.0	
+2002	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	422.5	0.0	1400.0	0	0	0.0	0.0					0.0	
+2003	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	362.1	0.0	1400.0	0	0	0.0	0.0					0.0	
+2003	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	366.6	0.0	1200.0	0	0	0.0	0.0					0.0	
+2004	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	372.6	0.0	1100.0	0	0	0.0	0.0					0.0	
+2005	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	332.3	0.0	1100.0	0	0	0.0	0.0					0.0	
+2005	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2005	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	455.3	0.0	1200.0	0	0	0.0	0.0					0.0	
+2006	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2006	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	317.0	0.0	1575.0	0	0	0.0	0.0					0.0	
+2006	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	568.3	0.0	1295.0	0	0	0.0	0.0					0.0	
+2007	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	403.2	0.0	1560.0	0	0	0.0	0.0					0.0	Well #3
+2007	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2007	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	449.7	0.0	1300.0	0	0	0.0	0.0					0.0	Well #1
+2008	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	396.1	0.0	1350.0	0	0	0.0	0.0					0.0	Well #1
+2008	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2008	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	444.2	0.0	1650.0	0	0	0.0	0.0					0.0	
+2009	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	412.5	0.0	1640.0	0	0	0.0	0.0					0.0	
+2009	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	331.6	0.0	1279.0	0	0	0.0	0.0					0.0	
+2009	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2010	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2010	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	267.4	0.0	1490.0	0	0	0.0	0.0					0.0	
+2010	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	420.6	0.0	1129.0	0	0	0.0	0.0					0.0	
+2011	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	229.8	0.0	417.0	0	0	0.0	0.0					0.0	
+2011	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2011	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2012	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2012	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2012	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	273.5	0.0	601.0	0	0	0.0	0.0					0.0	
+2013	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	238.03	0.0	468.0	0	0	0.0	0.0					0.0	population: 7766, connections: 2366
+2013	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	237.6	0.0	622.0	0	0	0.0	0.0					0.0	
+2014	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2015	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2015	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2015	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	277.84	0.0	622.0	0	0	0.0	0.0					0.0	
+2016	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	no use reported
+2016	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	no use reported
+2016	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	336.3	0.0	640.0	0	0	0.0	0.0					0.0	
+2017	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2017	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	281.31	0.0	627.0	0	0	0.0	0.0					0.0	
+2017	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2018	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2018	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2018	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	301.27	0.0	627.0	0	0	0.0	0.0					0.0	
+2019	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	277.01	0.0	550.0	0	0	0.0	0.0					0.0	
+2019	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2019	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2020	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2020	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2020	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	273.15	0.0	550.0	0	0	0.0	0.0					0.0	Well 2
+2021	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2021	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2021	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	196.09	0.0	550.0	0	0	0.0	0.0					0.0	
+2022	92933	1822	13304802D	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	245.59	0.0	550.0	0	0	0.0	0.0					0.0	
+2022	92932	1822	13304802C	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	52.23	0.0	581.0	0	0	0.0	0.0					0.0	
+2023	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	92932	1822	13304802C	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	92933	1822	13304802D	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2024	92932	1822	13304802C	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+2024	92933	1822	13304802D	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+2024	2570	1822	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+2024	2571	1822	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+2024	2569	1822	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	223.6	0.0	581.0	0	0	0.0	0.0	Gallons / Minute				0.0	Well #2
+1973	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1973	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1974	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1974	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1976	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1976	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1976	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1977	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1977	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1979	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1980	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1981	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1982	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1982	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1982	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	700.0	0	0	0.0	0.0					0.0	
+1983	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1983	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1983	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1984	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1984	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1984	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1985	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1985	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1985	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1986	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1986	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1986	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1987	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	246.4	0.0	0.0	0	0	0.0	0.0					0.0	
+1987	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1987	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1988	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1988	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1988	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	85.1	0.0	700.0	0	0	0.0	0.0					0.0	
+1989	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1989	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	74.0	0.0	700.0	0	0	0.0	0.0					0.0	
+1989	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1990	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1990	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	40.5	0.0	700.0	0	0	0.0	0.0					0.0	
+1990	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1991	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1991	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1991	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	83.5	0.0	700.0	0	0	0.0	0.0					0.0	
+1992	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1992	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	17.7	0.0	700.0	0	0	0.0	0.0					0.0	
+1992	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1993	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1993	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	9.6	0.0	700.0	0	0	0.0	0.0					0.0	
+1993	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1994	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	191.5	0.0	700.0	0	0	0.0	0.0					0.0	
+1994	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1994	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	112.6	0.0	700.0	0	0	0.0	0.0					0.0	
+1996	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	142.7	0.0	700.0	0	0	0.0	0.0					0.0	
+1996	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	229.7	0.0	700.0	0	0	0.0	0.0					0.0	
+1998	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	229.7	0.0	700.0	0	0	0.0	0.0					0.0	
+1998	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	336.8	0.0	700.0	0	0	0.0	0.0					0.0	
+2000	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	299.3	0.0	700.0	0	0	0.0	0.0					0.0	
+2001	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	93.2	0.0	550.0	0	0	0.0	0.0					0.0	
+2001	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	358.6	0.0	700.0	0	0	0.0	0.0					0.0	
+2003	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	424.9	0.0	700.0	0	0	0.0	0.0					0.0	Well #2 data from Annual Use.
+2003	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	434.9	0.0	665.0	0	0	0.0	0.0					0.0	
+2005	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2005	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	247.1	0.0	665.0	0	0	0.0	0.0					0.0	
+2005	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2006	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2006	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	164.0	0.0	650.0	0	0	0.0	0.0					0.0	
+2006	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2007	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	261.7	0.0	460.0	0	0	0.0	0.0					0.0	
+2007	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2007	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2008	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	200.7	0.0	450.0	0	0	0.0	0.0					0.0	
+2008	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2008	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2009	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2009	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2009	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	248.0	0.0	491.0	0	0	0.0	0.0					0.0	
+2010	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	323.7	0.0	595.0	0	0	0.0	0.0					0.0	
+2010	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2010	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2011	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2011	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.2	0.0	729.0	0	0	0.0	0.0					0.0	
+2011	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	812.4	0.0	1458.0	0	0	0.0	0.0					0.0	
+2012	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2012	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	374.6	0.0	1094.0	0	0	0.0	0.0					0.0	
+2012	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	409.2	0.0	1452.0	0	0	0.0	0.0					0.0	
+2013	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	402.24	0.0	1400.0	0	0	0.0	0.0					0.0	
+2013	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	293.2	0.0	1262.0	0	0	0.0	0.0					0.0	population: 7766, connections: 2363
+2014	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	497.3	0.0	1073.0	0	0	0.0	0.0					0.0	pop 7766; connections 2363
+2014	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	182.8	0.0	1406.0	0	0	0.0	0.0					0.0	pop 7766; connections 2363
+2015	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2015	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	378.51	0.0	1073.0	0	0	0.0	0.0					0.0	
+2015	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	287.62	0.0	1406.0	0	0	0.0	0.0					0.0	
+2016	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2016	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	276.2	0.0	1200.0	0	0	0.0	0.0					0.0	
+2016	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	374.2	0.0	1406.0	0	0	0.0	0.0					0.0	
+2017	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2017	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	314.64	0.0	1151.0	0	0	0.0	0.0					0.0	
+2017	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	352.08	0.0	1133.0	0	0	0.0	0.0					0.0	
+2018	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	523.62	0.0	1300.0	0	0	0.0	0.0					0.0	
+2018	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	90.8	0.0	1300.0	0	0	0.0	0.0					0.0	
+2018	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2019	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	237.8	0.0	1300.0	0	0	0.0	0.0					0.0	
+2019	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2019	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	353.02	0.0	1300.0	0	0	0.0	0.0					0.0	
+2020	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	247.49	0.0	1300.0	0	0	0.0	0.0					0.0	Well 1
+2020	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2020	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	356.74	0.0	1300.0	0	0	0.0	0.0					0.0	Well 3
+2021	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	326.21	0.0	1300.0	0	0	0.0	0.0					0.0	
+2021	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2021	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	407.37	0.0	1300.0	0	0	0.0	0.0					0.0	
+2022	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	273.13	0.0	1300.0	0	0	0.0	0.0					0.0	
+2022	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	92935	1898	13304802D	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	92934	1898	13304802C	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	387.47	0.0	1300.0	0	0	0.0	0.0					0.0	
+2023	92934	1898	13304802C	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	498.9	0.0	1007.0	0	0	0.0	0.0					0.0	Overlaps with 1822
+2023	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	397.1	0.0	961.0	0	0	0.0	0.0					0.0	Overlaps with 1822
+2023	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	92935	1898	13304802D	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2024	92934	1898	13304802C	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+2024	2709	1898	13304720ABD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	116.37	0.0	1300.0	0	0	0.0	0.0	Gallons / Minute				0.0	Well #1
+2024	92935	1898	13304802D	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+2024	2711	1898	13304720ADD	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	533.06	0.0	1300.0	0	0	0.0	0.0	Gallons / Minute				0.0	Well #3
+2024	2710	1898	13304720BBA	Wahpeton Buried Valley	WAHPETON, CITY OF	Municipal	0.0	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+1976	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1977	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1978	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1979	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1979	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1980	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1980	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1981	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.2	0.0	0.0	0	0	0.0	0.0					0.0	
+1981	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1982	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.3	0.0	1500.0	0	0	0.0	0.0					0.0	
+1982	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1983	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1983	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.3	0.0	1500.0	0	0	0.0	0.0					0.0	
+1984	3171	2115	13304718ACB	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.3	0.0	0.0	0	0	0.0	0.0					0.0	
+1984	3170	2115	13304718AA	Wahpeton Buried Valley	FROEDTERT MALT CORP	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1987	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	1536.5	0.0	2190.0	0	0	0.0	0.0					0.0	
+1988	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	216.8	0.0	400.0	0	0	0.0	0.0					0.0	
+1989	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	115.4	0.0	723.0	0	0	0.0	0.0					0.0	
+1990	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	112.3	0.0	1533.0	0	0	0.0	0.0					0.0	
+1991	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.1	0.0	325.0	0	0	0.0	0.0					0.0	
+1992	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.6	0.0	650.0	0	0	0.0	0.0					0.0	
+1993	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1994	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	213.5	0.0	1200.0	0	0	0.0	0.0					0.0	
+1996	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	214.5	0.0	1200.0	0	0	0.0	0.0					0.0	
+1997	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	214.8	0.0	800.0	0	0	0.0	0.0					0.0	
+1998	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.1	0.0	800.0	0	0	0.0	0.0					0.0	
+1999	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	213.1	0.0	800.0	0	0	0.0	0.0					0.0	
+2000	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	190.2	0.0	800.0	0	0	0.0	0.0					0.0	
+2001	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	208.2	0.0	800.0	0	0	0.0	0.0					0.0	
+2002	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	188.9	0.0	800.0	0	0	0.0	0.0					0.0	
+2003	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.1	0.0	800.0	0	0	0.0	0.0					0.0	
+2004	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	197.2	0.0	800.0	0	0	0.0	0.0					0.0	
+2005	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.1	0.0	800.0	0	0	0.0	0.0					0.0	
+2006	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.0	0.0	800.0	0	0	0.0	0.0					0.0	
+2007	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	160.6	0.0	800.0	0	0	0.0	0.0					0.0	
+2008	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	200.9	0.0	700.0	0	0	0.0	0.0					0.0	
+2009	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	207.4	0.0	700.0	0	0	0.0	0.0					0.0	
+2010	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	196.3	0.0	700.0	0	0	0.0	0.0					0.0	
+2011	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	163.6	0.0	700.0	0	0	0.0	0.0					0.0	
+2012	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	163.7	0.0	700.0	0	0	0.0	0.0					0.0	
+2013	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	159.61	0.0	700.0	0	0	0.0	0.0					0.0	
+2014	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	166.0	0.0	700.0	0	0	0.0	0.0					0.0	
+2015	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.8	0.0	500.0	0	0	0.0	0.0					0.0	
+2016	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	245.5	0.0	0.0	0	0	0.0	0.0					0.0	
+2017	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	204.38	0.0	500.0	0	0	0.0	0.0					0.0	
+2018	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	192.7	0.0	500.0	0	0	0.0	0.0					0.0	
+2019	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	212.67	0.0	500.0	0	0	0.0	0.0					0.0	
+2020	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	231.0	0.0	500.0	0	0	0.0	0.0					0.0	
+2021	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	263.19	0.0	500.0	0	0	0.0	0.0					0.0	
+2022	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	178.57	0.0	0.0	0	0	0.0	0.0	? / ?				0.0	
+2023	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	119.11	0.0	0.0	0	0	0.0	0.0	? / ?				0.0	
+2024	6546	3898	13304720ABD	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	263.09	0.0	0.0	0	0	0.0	0.0	' / '				0.0	Monthly values are Mgls
+1989	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1990	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	64.8	0.0	347.0	0	0	0.0	0.0					0.0	
+1991	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	407.8	0.0	450.0	0	0	0.0	0.0					0.0	
+1992	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	98.1	0.0	650.0	0	0	0.0	0.0					0.0	
+1993	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	219.8	0.0	1200.0	0	0	0.0	0.0					0.0	
+1994	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	214.5	0.0	1200.0	0	0	0.0	0.0					0.0	
+1995	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	25.7	0.0	600.0	0	0	0.0	0.0					0.0	
+1996	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	56.8	0.0	1200.0	0	0	0.0	0.0					0.0	
+1997	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	8.8	0.0	800.0	0	0	0.0	0.0					0.0	
+1998	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	86.3	0.0	800.0	0	0	0.0	0.0					0.0	
+1999	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	38.5	0.0	800.0	0	0	0.0	0.0					0.0	
+2000	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	102.6	0.0	800.0	0	0	0.0	0.0					0.0	
+2001	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	35.1	0.0	800.0	0	0	0.0	0.0					0.0	
+2002	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	117.0	0.0	800.0	0	0	0.0	0.0					0.0	
+2003	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	103.7	0.0	800.0	0	0	0.0	0.0					0.0	
+2004	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	115.5	0.0	800.0	0	0	0.0	0.0					0.0	
+2005	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	138.6	0.0	800.0	0	0	0.0	0.0					0.0	
+2006	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	184.7	0.0	800.0	0	0	0.0	0.0					0.0	
+2007	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	215.3	0.0	800.0	0	0	0.0	0.0					0.0	
+2008	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	151.6	0.0	700.0	0	0	0.0	0.0					0.0	
+2009	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	108.6	0.0	700.0	0	0	0.0	0.0					0.0	
+2010	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	153.6	0.0	700.0	0	0	0.0	0.0					0.0	
+2011	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	216.5	0.0	700.0	0	0	0.0	0.0					0.0	
+2012	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.0	0.0	700.0	0	0	0.0	0.0					0.0	
+2013	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	206.35	0.0	700.0	0	0	0.0	0.0					0.0	
+2014	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	210.7	0.0	700.0	0	0	0.0	0.0					0.0	
+2015	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	223.0	0.0	500.0	0	0	0.0	0.0					0.0	
+2016	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	254.8	0.0	0.0	0	0	0.0	0.0					0.0	28.3% from 20ABDB7 71.7% from 20ABDAC1
+2017	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.0	0.0	500.0	0	0	0.0	0.0					0.0	
+2018	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.0	0.0	500.0	0	0	0.0	0.0					0.0	
+2019	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.0	0.0	500.0	0	0	0.0	0.0					0.0	
+2020	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.03	0.0	500.0	0	0	0.0	0.0					0.0	
+2021	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.04	0.0	500.0	0	0	0.0	0.0					0.0	
+2022	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.32	0.0	0.0	0	0	0.0	0.0	? / ?				0.0	
+2023	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.03	0.0	0.0	0	0	0.0	0.0	? / ?				0.0	
+2024	6855	4121	13304720A	Wahpeton Buried Valley	MINN-DAK FARMERS COOPERATIVE	Industrial	220.03	0.0	0.0	0	0	0.0	0.0	' / '				0.0	
+1995	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1995	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1996	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1997	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1998	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	1.2	0.0	2000.0	0	0	0.0	0.0					0.0	
+1999	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+1999	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2000	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2000	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2001	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2001	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2002	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2002	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2002	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2003	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2003	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	2000.0	0	0	0.0	0.0					0.0	
+2003	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2003	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2004	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	2000.0	0	0	0.0	0.0					0.0	
+2004	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2004	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2005	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2005	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2005	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2005	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.5	0.0	2000.0	0	0	0.0	0.0				0	0.0	
+2006	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2006	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	2.8	0.0	1050.0	0	0	0.0	0.0					0.0	
+2007	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2007	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2008	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2008	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	6.2	0.0	1050.0	0	0	0.0	0.0					0.0	
+2009	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2009	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2010	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	2.4	0.0	1000.0	0	0	0.0	0.0					0.0	
+2011	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2011	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	5.9	0.0	1050.0	0	0	0.0	0.0					0.0	
+2012	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2012	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No Use.
+2013	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	2.39	0.0	1543.0	0	0	0.0	0.0					0.0	
+2013	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2013	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	1.7	0.0	1319.0	0	0	0.0	0.0					0.0	
+2014	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2014	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2015	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2016	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No use reported
+2017	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	No use reported
+2018	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2019	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	no reported water use
+2020	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2021	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7965	4862	13304809NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7972	4862	13304803EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7963	4862	13304811NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7984	4862	13404828EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0	? / ?				0.0	
+2022	7978	4862	13404828SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7966	4862	13304801SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7986	4862	13404827WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7973	4862	13304804EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7976	4862	13404821SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7982	4862	13404833NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7968	4862	13304803SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7964	4862	13304810NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7989	4862	13404835CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7981	4862	13404828NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7975	4862	13304803WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7969	4862	13304804SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7967	4862	13304802SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7988	4862	13404822CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7985	4862	13404833EEE	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7977	4862	13404827SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7987	4862	13404834WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7980	4862	13404834SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7970	4862	13304803NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7961	4862	13304706CCC	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7983	4862	13404834NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7962	4862	13304812NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7974	4862	13304802WWW	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7971	4862	13304804NNN	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2022	7979	4862	13404833SSS	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	
+2023	7960	4862	13304707	Wahpeton Buried Valley	CARGILL INCORPORATED	Industrial	0.0	0.0	0.0	0	0	0.0	0.0	? / ?				0.0	
+2006	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	13.4	0.0	0.0	0	0	0.0	0.0					0.0	
+2010	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	19.1	0.0	12.0	0	0	0.0	0.0					0.0	
+2011	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	19.1	0.0	11.85	0	0	0.0	0.0					0.0	
+2012	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	14.4	0.0	9.0	0	0	0.0	0.0					0.0	
+2013	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	6.74	0.0	14.9	0	0	0.0	0.0					0.0	
+2014	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	13.7	0.0	8.5	0	0	0.0	0.0					0.0	
+2015	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	13.1	0.0	0.0	0	0	0.0	0.0					0.0	
+2016	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	5.61	0.0	8.5	0	0	0.0	0.0					0.0	
+2017	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	4.02	0.0	8.5	0	0	0.0	0.0					0.0	
+2018	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	0.02	0.0	8.5	0	0	0.0	0.0					0.0	
+2019	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	no use well sealed and abandoned
+2020	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	WCCO well has been sealed and abandoned
+2021	9951	5721	13304733C	Wahpeton Buried Valley	WAHPETON, CITY OF	Industrial	0.0	0.0	0.0	0	0	0.0	0.0					0.0	

@@ -1,0 +1,1 @@
+Contents should include all data resulting from python processing routines or any manual routine outside of python. If data was processed outside of python, this would be a good place to note who/how/when/where the data was processed.

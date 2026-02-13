@@ -1,0 +1,1 @@
+this files is here for directory intitalization only, but the folder should contain all modflow input files used to build model (often times the outputs directly from flopy)

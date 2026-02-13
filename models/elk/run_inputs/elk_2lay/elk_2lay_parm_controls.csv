@@ -1,0 +1,11 @@
+parm,layers,change,type,lbound,ubound,ult_lbound,ult_ubound,initial_value,notes
+k_cn,all,factor,constant,1.00E-03,100,1.00E-01,1.00E+03,1,
+aniso_cn,all,factor ,constant,1.00E-02,10,1.00E-08,1.00E+00,1,
+ss_cn,all,factor,constant,1.00E-03,1000,1.00E-07,1.00E-03,1,
+sy_cn,all,factor,constant,0.1,3,1.00E-02,2.50E-01,1,
+rch_cn,0,factor,constant,5.00E-01,3,0.00E+00,5.00E-03,1,
+rcht_cn,0,factor,constant,5.00E-01,2,0.00E+00,5.00E-03,1,
+rivcond_cn,0,factor,constant,1.00E-02,100,1.00E-04,8.00E+04,1,
+rivstg_cn,0,factor,constant,-5,5,1.00E-07,1.00E+05,1,
+drncond_cn,0,factor,constant,1.00E-02,100,1.00E-04,1.00E+05,1,
+drnstg_cn,0,factor,constant,-5,5,1.00E-07,1.00E+05,1,

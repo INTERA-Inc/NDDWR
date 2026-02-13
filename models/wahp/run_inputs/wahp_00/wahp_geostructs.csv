@@ -1,0 +1,11 @@
+pname,spatial,temporal,contribution,corr_range,aniso,bearing,transform,pp_space
+k_pp,x,,1,15840,1,45,,12
+k_grd,x,,1,15840,1,0,,0
+ss_pp,x,,1,26400,1,45,,12
+sy_pp,x,,1,26400,1,45,,12
+rch_pp,x,,1,26400,1,0,,12
+rcht_cn,,x,1,120,1,0,,0
+riv_cn,x,,1,15840,1,0,,0
+riv_grd,x,,1,15840,1,0,,0
+drn_cn,x,,1,15840,1,0,,0
+drn_grd,x,,1,15840,1,0,,0

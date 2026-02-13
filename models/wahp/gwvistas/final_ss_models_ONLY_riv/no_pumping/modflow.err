@@ -1,0 +1,27 @@
+
+ ========== TRANSLATION TO MODFLOW2005 ==========
+
+
+
+ >>>>> Testing Layer Elevations <<<<<
+     0 ERRORS,   0 WARNINGS
+
+ >>>>> Translating UPW Package <<<<<
+
+
+ >>>>> Translating RIVER Package <<<<<
+
+
+ >>>>> Translating WELL 1 Package <<<<<
+
+
+ >>>>> Translating RECHARGE Package <<<<<
+
+
+ >>>>> Translating BASIC Package <<<<<
+     0 ERRORS,   0 WARNINGS
+
+ >>>>> Translating Discretization Package <<<<<
+     0 ERRORS,   0 WARNINGS
+
+ ========== TRANSLATION COMPLETE! ==========

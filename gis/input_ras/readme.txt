@@ -1,0 +1,1 @@
+directory includes all raster type files used in model build process

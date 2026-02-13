@@ -1,0 +1,14 @@
+# MODFLOW2005/NWT name file written by Groundwater Vistas
+#xll:2941428.200000; yll:-260810.766000; rotation:40.000000;
+LIST 7 gv9.lst
+BAS6  1 gv9.bas
+DIS  10 gv9.dis
+UPW 11 gv9.upw
+WEL 80 gv9.wel
+RIV 55 gv9.riv
+RCH 33 gv9.rch
+OC  22 gv9.oc
+NWT 19 gv9.nwt
+DATA(BINARY) 50 gv9.cbb
+DATA(BINARY) 30 gv9.hds
+DATA(BINARY) 31 gv9.ddn
