@@ -10,7 +10,6 @@ import os
 sys.path.insert(0,os.path.abspath(os.path.join('..','..','dependencies')))
 sys.path.insert(1,os.path.abspath(os.path.join('..','..','dependencies','flopy')))
 sys.path.insert(2,os.path.abspath(os.path.join('..','..','dependencies','pyemu')))
-
 import re
 import pyemu
 import flopy
@@ -28,7 +27,6 @@ import shutil
 from datetime import date
 from scipy.interpolate import interp1d
 import calendar
-
 # Function to process water levels
 from spirit_war01_water_level_process import wl_process_main
 
@@ -2829,8 +2827,6 @@ def clean_mf6(org_mws,mnm):
             os.rename(ogfile, file)     
      
     fix_wrapped_format(cws) 
-    
-
 
 # -------------
 # Main function
@@ -2856,7 +2852,7 @@ def main_build_model():
     build_lakes = False
 
     # - True to run base model in the cleaned directory
-    run_base = False
+    run_base = True
 
     # - True to use newton under_relaxation
     use_newton = True
@@ -2872,10 +2868,11 @@ def main_build_model():
     
     # --- Calculate top and bottom arrays from raster data
     # - If you need to regenerate the surface npy files from the .tif's, use force_resample=True
-    top, botm, idomain = sample_rasters(model_grid,
-                                      surface_smoothing=False,
-                                      force_resample=False
-                                      )
+    top, botm, idomain = sample_rasters(
+        model_grid,
+        surface_smoothing=False,
+        force_resample=False
+        )
     
     # Deactive cells in layers 1 outside of WW model domain
     idomain[0,:,:] = create_WW_K(np.zeros((nrow,ncol)), 1)
@@ -2917,45 +2914,51 @@ def main_build_model():
         botm = botm[0:3,:,:]
         idomain = idomain[0:3,:,:]
     
+    np.save(r'C:\Users\shjordan\Documents\Projects\nddwr_swww_emulator\app\assets\model_elements\bot_ww.npy',
+            botm[0,:,:]
+            )
+    print('Saved bottom ')
+    
     # --- Create model
     sim, riv_cells = construct_model(
-                          top,
-                          botm,
-                          idomain,
-                          nrow,
-                          ncol,
-                          nlay,
-                          delr,
-                          delc,
-                          bounds,
-                          model_grid,
-                          drn_df,
-                          riv_drns_df,
-                          riv_df,
-                          lake_df,
-                          heads_layer3,
-                          modname=modname,
-                          use_newton=use_newton,
-                          export_zones=True,
-                          swb2_rch=swb2_rch,
-                          outside_ww_active=outside_ww_active,
-                          three_layer=three_layer,
-                          build_lakes=build_lakes,
-                          )
+        top,
+        botm,
+        idomain,
+        nrow,
+        ncol,
+        nlay,
+        delr,
+        delc,
+        bounds,
+        model_grid,
+        drn_df,
+        riv_drns_df,
+        riv_df,
+        lake_df,
+        heads_layer3,
+        modname=modname,
+        use_newton=use_newton,
+        export_zones=True,
+        swb2_rch=swb2_rch,
+        outside_ww_active=outside_ww_active,
+        three_layer=three_layer,
+        build_lakes=build_lakes,
+        )
     
-    # success, buff = sim.run_simulation() 
+    success, buff = sim.run_simulation() 
     
     # --- Create a clean dir with external input files
-    # org_mws = f'./model_ws/{modname}'
-    # clean_mf6(org_mws,modname)
+    org_mws = f'./model_ws/{modname}'
+    clean_mf6(org_mws,modname)
     
-    # # # --- Run the cleaned model
-    # if run_base:
-    #     sim.set_sim_path(org_mws + "_clean")
-    #     success, buff = sim.run_simulation()
+    # # --- Run the cleaned model
+    if run_base:
+        sim.set_sim_path(org_mws + "_clean")
+        success, buff = sim.run_simulation()
     
-    # strt_yr = pd.to_datetime(sim.tdis.start_date_time.data).year
-    # stress_period_df_gen(org_mws + "_clean",strt_yr,annual_only=False)
+    # -- Make the sp reference table
+    strt_yr = pd.to_datetime(sim.tdis.start_date_time.data).year
+    stress_period_df_gen(org_mws + "_clean",strt_yr,annual_only=False)
     
     
 if __name__ == "__main__":
