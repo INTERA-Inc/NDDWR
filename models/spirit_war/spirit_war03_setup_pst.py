@@ -13,7 +13,6 @@ from matplotlib.backends.backend_pdf import PdfPages
 import matplotlib.pyplot as plt
 import random
 import time
-
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -525,28 +524,30 @@ def setup_pstpp(org_d,modnm,run_tag,template,flex_con=False,num_reals=96,
                 if k in [0,1]:
                     parType = 'zone'
                     zoneArray = zone_array[k]
-                    pf.add_parameters(f, 
-                                      par_type = parType, 
-                                      upper_bound = 4, 
-                                      lower_bound = 0.1,
-                                      ult_ubound = 0.13, 
-                                      ult_lbound = 1e-4 if k == 1 else 0.07,
-                                      par_name_base='cn-' + par_name_base,
-                                      pargp='cn-' + par_name_base + str(k).zfill(3),
-                                      zone_array=zoneArray
-                                      )
+                    pf.add_parameters(
+                        f, 
+                        par_type = parType, 
+                        upper_bound = 4, 
+                        lower_bound = 0.1,
+                        ult_ubound = 0.13, 
+                        ult_lbound = 1e-4 if k == 1 else 0.07,
+                        par_name_base='cn-' + par_name_base,
+                        pargp='cn-' + par_name_base + str(k).zfill(3),
+                        zone_array=zoneArray
+                        )
                     if high_dim:
-                        pf.add_parameters(f, 
-                                          par_type='pilotpoints', 
-                                          upper_bound=4, 
-                                          lower_bound=0.1,
-                                          ult_ubound=0.13,
-                                          ult_lbound=1e-4 if k == 1 else 0.07, 
-                                          par_name_base='pp-' + par_name_base,
-                                          pargp='pp-' + par_name_base + str(k).zfill(3),
-                                          geostruct=k_pp_gs, 
-                                          pp_space=pp_space,
-                                          )
+                        pf.add_parameters(
+                            f, 
+                            par_type='pilotpoints', 
+                            upper_bound=4, 
+                            lower_bound=0.1,
+                            ult_ubound=0.13,
+                            ult_lbound=1e-4 if k == 1 else 0.07, 
+                            par_name_base='pp-' + par_name_base,
+                            pargp='pp-' + par_name_base + str(k).zfill(3),
+                            geostruct=k_pp_gs, 
+                            pp_space=pp_space,
+                            )
                 else:
                     continue
 
@@ -592,29 +593,31 @@ def setup_pstpp(org_d,modnm,run_tag,template,flex_con=False,num_reals=96,
                         low_bound = 0.3
                         up_bound = 2.2
                         
-                    pf.add_parameters(f, 
-                                      par_type=parType, 
-                                      upper_bound=up_bound, 
-                                      lower_bound=low_bound,
-                                      ult_ubound=ubound, 
-                                      ult_lbound=lbound, 
-                                      par_name_base='cn-' + par_name_base,
-                                      pargp='cn-' + par_name_base + str(k).zfill(3),
-                                      zone_array=zoneArray
-                                      )
+                    pf.add_parameters(
+                        f, 
+                        par_type=parType, 
+                        upper_bound=up_bound, 
+                        lower_bound=low_bound,
+                        ult_ubound=ubound, 
+                        ult_lbound=lbound, 
+                        par_name_base='cn-' + par_name_base,
+                        pargp='cn-' + par_name_base + str(k).zfill(3),
+                        zone_array=zoneArray
+                        )
                     if high_dim:
-                        pf.add_parameters(f, 
-                                          par_type='pilotpoints', 
-                                          upper_bound=up_bound, 
-                                          lower_bound=low_bound,
-                                          ult_ubound=ubound, 
-                                          ult_lbound=lbound, 
-                                          par_name_base='pp-' + par_name_base,
-                                          pargp='pp-' + par_name_base + str(k).zfill(3), 
-                                          geostruct=k_pp_gs, 
-                                          # Refining pp spacing for layers 1 and 2
-                                          pp_space = pp_space,
-                                          )
+                        pf.add_parameters(
+                            f, 
+                            par_type='pilotpoints', 
+                            upper_bound=up_bound, 
+                            lower_bound=low_bound,
+                            ult_ubound=ubound, 
+                            ult_lbound=lbound, 
+                            par_name_base='pp-' + par_name_base,
+                            pargp='pp-' + par_name_base + str(k).zfill(3), 
+                            geostruct=k_pp_gs, 
+                            # Refining pp spacing for layers 1 and 2
+                            pp_space = pp_space,
+                            )
                 else:
                     continue
 
@@ -625,28 +628,30 @@ def setup_pstpp(org_d,modnm,run_tag,template,flex_con=False,num_reals=96,
                 if k in [1,2]:
                     parType = 'zone'
                     zoneArray = zone_array[k]
-                    pf.add_parameters(f, 
-                                      par_type=parType, 
-                                      upper_bound=bnds_cn[1],
-                                      lower_bound=bnds_cn[0],
-                                      ult_ubound=ubnds[1],
-                                      ult_lbound=ubnds[0], 
-                                      par_name_base='cn-' + par_name_base,
-                                      pargp='cn-' + par_name_base + str(k).zfill(3),
-                                      zone_array=zoneArray
-                                      )
+                    pf.add_parameters(
+                        f, 
+                        par_type=parType, 
+                        upper_bound=bnds_cn[1],
+                        lower_bound=bnds_cn[0],
+                        ult_ubound=ubnds[1],
+                        ult_lbound=ubnds[0], 
+                        par_name_base='cn-' + par_name_base,
+                        pargp='cn-' + par_name_base + str(k).zfill(3),
+                        zone_array=zoneArray
+                        )
                     if high_dim:
-                        pf.add_parameters(f, 
-                                          par_type='pilotpoints', 
-                                          upper_bound=bnds_pp[1], 
-                                          lower_bound=bnds_pp[0],
-                                          ult_ubound=ubnds[1], 
-                                          ult_lbound=ubnds[0],
-                                          par_name_base='pp-' + par_name_base,
-                                          pargp='pp-' + par_name_base + str(k).zfill(3), 
-                                          geostruct=ss_pp_gs, 
-                                          pp_space=pp_space,
-                                          )
+                        pf.add_parameters(
+                            f, 
+                            par_type='pilotpoints', 
+                            upper_bound=bnds_pp[1], 
+                            lower_bound=bnds_pp[0],
+                            ult_ubound=ubnds[1], 
+                            ult_lbound=ubnds[0],
+                            par_name_base='pp-' + par_name_base,
+                            pargp='pp-' + par_name_base + str(k).zfill(3), 
+                            geostruct=ss_pp_gs, 
+                            pp_space=pp_space,
+                            )
                 else:
                     continue
 
@@ -833,35 +838,37 @@ def setup_pstpp(org_d,modnm,run_tag,template,flex_con=False,num_reals=96,
         ghb_files.sort()
                 
         # Constant mult for GHB conductance
-        pf.add_parameters(filenames=ghb_files,
-                          par_type='constant',
-                          par_name_base='ghbcond-cn',
-                          # geostruct=ghbb_grd_gs,
-                          pargp='ghbcond-cn',
-                          index_cols=[0, 1, 2],
-                          use_cols=[4],
-                          # Bounds
-                          upper_bound=1.8,
-                          lower_bound=0.2,
-                          # It doesnt seem to matter past like ~200
-                          ult_lbound=10,
-                          ult_ubound=500,
-                          mfile_skip=0
-                          )
+        pf.add_parameters(
+            filenames=ghb_files,
+            par_type='constant',
+            par_name_base='ghbcond-cn',
+            # geostruct=ghbb_grd_gs,
+            pargp='ghbcond-cn',
+            index_cols=[0, 1, 2],
+            use_cols=[4],
+            # Bounds
+            upper_bound=1.8,
+            lower_bound=0.2,
+            # It doesnt seem to matter past like ~200
+            ult_lbound=10,
+            ult_ubound=500,
+            mfile_skip=0
+            )
 
         # GHB Head --> constant that can adjust +/- 10-ft
-        pf.add_parameters(filenames=ghb_files,
-                          par_type='constant',
-                          # par_name_base='ghbhd-cn',
-                          pargp='ghbhd-cn',
-                          index_cols=[0, 1, 2],
-                          use_cols=[3],
-                          upper_bound=10,
-                          lower_bound=-10,
-                          mfile_skip=0,
-                          # Change from multiplier type
-                          par_style='a',
-                          )
+        pf.add_parameters(
+            filenames=ghb_files,
+            par_type='constant',
+            # par_name_base='ghbhd-cn',
+            pargp='ghbhd-cn',
+            index_cols=[0, 1, 2],
+            use_cols=[3],
+            upper_bound=10,
+            lower_bound=-10,
+            mfile_skip=0,
+            # Change from multiplier type
+            par_style='a',
+            )
         
         # ---- WEL params
         wel_files = [f for f in os.listdir(template) if 'wel_' in f and f.endswith('.txt')]
@@ -871,17 +878,18 @@ def setup_pstpp(org_d,modnm,run_tag,template,flex_con=False,num_reals=96,
         for i,wel_file in enumerate(wel_files):
            kper = int(wel_file.split('_')[4].split('.')[0])
            # if kper <= 319:
-           pf.add_parameters(wel_file,
-                              par_type='constant',
-                              pargp='welt',
-                              index_cols=[0, 1, 2],
-                              use_cols=[3],
-                              par_name_base='welt_kper:{0:03d}'.format(kper),
-                              datetime=dts[i],
-                              upper_bound=1.15,
-                              lower_bound=0.85,
-                              geostruct=temporal_gs,
-                              )
+           pf.add_parameters(
+               wel_file,
+               par_type='constant',
+               pargp='welt',
+               index_cols=[0, 1, 2],
+               use_cols=[3],
+               par_name_base='welt_kper:{0:03d}'.format(kper),
+               datetime=dts[i],
+               upper_bound=1.15,
+               lower_bound=0.85,
+               geostruct=temporal_gs,
+               )
         
         # hard coded the df return order
         dfs = init_budget_process(template)
